@@ -1,0 +1,8 @@
+rag_dimension,mean_rating
+relevance_rating,5.0
+correctness_rating,5.0
+groundedness_rating,5.0
+citation_correctness_rating,5.0
+completeness_rating,5.0
+clarity_rating,5.0
+usefulness_rating,5.0

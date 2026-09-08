@@ -1,0 +1,5 @@
+evaluation_component,reviewed_rows,human_labels_complete
+Skill Extraction,200,True
+Recommendation Ranking,300,True
+Skill Gap,200,True
+RAG,20,True
