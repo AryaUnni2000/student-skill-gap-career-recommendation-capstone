@@ -1,0 +1,5 @@
+configuration,dataset_contribution,top1_change_count_vs_onet,top1_change_percentage_vs_onet,mean_absolute_rank_change_vs_onet,maximum_rank_change_vs_onet,unchanged_rank_percentage_vs_onet,top3_overlap_percentage_vs_onet,top5_overlap_percentage_vs_onet
+O*NET Only,Baseline,0,0.0,0.0,0,100.0,100.0,100.0
+O*NET + Job Bank,Adds Canadian labour demand,13,20.63,1.22,6,39.05,83.6,83.17
+O*NET + CIP,Adds education alignment,1,1.59,0.47,7,72.7,89.95,86.98
+All Datasets,Adds labour demand + education,12,19.05,1.23,9,38.2,84.66,80.63

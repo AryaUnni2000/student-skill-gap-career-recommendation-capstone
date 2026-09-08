@@ -1,0 +1,5 @@
+evaluation,review_rows,completion_percentage,status
+Skill Extraction,200,0.0,Pending Human Review
+Recommendation Ranking,300,0.0,Pending Human Review
+Skill Gap,200,0.0,Pending Human Review
+RAG,20,0.0,Pending Human Review

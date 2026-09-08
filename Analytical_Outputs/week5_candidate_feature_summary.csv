@@ -1,0 +1,64 @@
+candidate_id,recommended_occupations,cip_program_count,average_recommendation_score
+Candidate_001,"Software Developer, Information Technology (IT) Analyst, Secondary School Teacher, Bookkeeper, Licensed Practical Nurse (L.P.N.)",126,67.3367505885963
+Candidate_002,"Office Manager, Office Administrator, Software Developer, Secondary School Teacher, Information Technology (IT) Analyst",136,53.66236833942967
+Candidate_003,"Administrative Assistant, Office Manager, Office Administrator, Driver, Truck, Inside Sales Representative",14,88.73166019558273
+Candidate_004,"Software Developer, Secondary School Teacher, Information Technology (IT) Analyst, Bookkeeper, Licensed Practical Nurse (L.P.N.)",126,77.88140520597507
+Candidate_005,"Software Developer, Bookkeeper, Office Manager, Secondary School Teacher, Office Administrator",126,51.39019710262493
+Candidate_006,"Software Developer, Information Technology (IT) Analyst, Inside Sales Representative, Retail Sales Associate, Administrative Assistant",33,90.03646152363238
+Candidate_007,"Food Service Supervisor, Administrative Assistant, Delivery Driver, Continuing Care Assistant, Bookkeeper",12,100.00000000000001
+Candidate_008,"Software Developer, Licensed Practical Nurse (L.P.N.), Secondary School Teacher, Restaurant Manager, Information Technology (IT) Analyst",135,67.62986142312144
+Candidate_009,"Administrative Assistant, Office Administrator, Delivery Driver, Driver, Truck, Bookkeeper",15,23.373980185075588
+Candidate_010,"Office Manager, Food Service Supervisor, Administrative Assistant, Inside Sales Representative, Retail Sales Associate",18,96.94582726335692
+Candidate_011,"Office Manager, Driver, Truck, Office Administrator, Secondary School Teacher, Software Developer",126,64.48540049644731
+Candidate_012,"Software Developer, Licensed Practical Nurse (L.P.N.), Secondary School Teacher, Restaurant Manager, Information Technology (IT) Analyst",135,67.62986142312144
+Candidate_013,"Software Developer, Bookkeeper, Office Manager, Secondary School Teacher, Office Administrator",126,51.39019710262493
+Candidate_014,"Software Developer, Secondary School Teacher, Information Technology (IT) Analyst, Licensed Practical Nurse (L.P.N.), Bookkeeper",126,57.11158312154325
+Candidate_015,"Food Service Supervisor, Administrative Assistant, Delivery Driver, Continuing Care Assistant, Bookkeeper",12,100.00000000000001
+Candidate_016,"Software Developer, Licensed Practical Nurse (L.P.N.), Inside Sales Representative, Retail Sales Associate, Information Technology (IT) Analyst",33,79.51527487025446
+Candidate_017,"Administrative Assistant, Inside Sales Representative, Retail Sales Associate, Office Administrator, Office Manager",13,85.76243475556848
+Candidate_018,"Food Service Supervisor, Administrative Assistant, Delivery Driver, Continuing Care Assistant, Bookkeeper",12,100.00000000000001
+Candidate_019,"Office Manager, Bookkeeper, Driver, Truck, Office Administrator, Software Developer",35,72.92959121904585
+Candidate_020,"Bookkeeper, Software Developer, Office Manager, Office Administrator, Secondary School Teacher",126,61.708135549056855
+Candidate_021,"Bookkeeper, Software Developer, Office Manager, Office Administrator, Secondary School Teacher",126,61.708135549056855
+Candidate_022,"Office Manager, Food Service Supervisor, Administrative Assistant, Inside Sales Representative, Retail Sales Associate",18,96.94582726335692
+Candidate_023,"Office Manager, Office Administrator, Software Developer, Secondary School Teacher, Information Technology (IT) Analyst",136,53.66236833942967
+Candidate_024,"Office Manager, Bookkeeper, Driver, Truck, Office Administrator, Software Developer",35,72.92959121904585
+Candidate_025,"Software Developer, Information Technology (IT) Analyst, Secondary School Teacher, Bookkeeper, Licensed Practical Nurse (L.P.N.)",126,67.3367505885963
+Candidate_026,"Software Developer, Licensed Practical Nurse (L.P.N.), Secondary School Teacher, Restaurant Manager, Information Technology (IT) Analyst",135,67.62986142312144
+Candidate_027,"Office Manager, Office Administrator, Software Developer, Secondary School Teacher, Information Technology (IT) Analyst",136,53.66236833942967
+Candidate_028,"Office Manager, Office Administrator, Software Developer, Secondary School Teacher, Information Technology (IT) Analyst",136,53.66236833942967
+Candidate_029,"Food Service Supervisor, Administrative Assistant, Delivery Driver, Continuing Care Assistant, Bookkeeper",12,100.00000000000001
+Candidate_030,"Office Manager, Office Administrator, Software Developer, Secondary School Teacher, Information Technology (IT) Analyst",136,53.66236833942967
+Candidate_031,"Administrative Assistant, Inside Sales Representative, Retail Sales Associate, Office Administrator, Office Manager",13,85.76243475556848
+Candidate_032,"Food Service Supervisor, Administrative Assistant, Delivery Driver, Continuing Care Assistant, Bookkeeper",12,100.00000000000001
+Candidate_033,"Administrative Assistant, Office Manager, Office Administrator, Driver, Truck, Inside Sales Representative",14,88.73166019558273
+Candidate_034,"Office Manager, Food Service Supervisor, Administrative Assistant, Inside Sales Representative, Retail Sales Associate",18,96.94582726335692
+Candidate_035,"Software Developer, Information Technology (IT) Analyst, Inside Sales Representative, Retail Sales Associate, Administrative Assistant",33,90.03646152363238
+Candidate_036,"Administrative Assistant, Office Manager, Office Administrator, Driver, Truck, Inside Sales Representative",14,88.73166019558273
+Candidate_037,"Software Developer, Secondary School Teacher, Information Technology (IT) Analyst, Bookkeeper, Licensed Practical Nurse (L.P.N.)",126,77.88140520597507
+Candidate_038,"Software Developer, Information Technology (IT) Analyst, Secondary School Teacher, Bookkeeper, Licensed Practical Nurse (L.P.N.)",126,67.3367505885963
+Candidate_039,"Food Service Supervisor, Administrative Assistant, Delivery Driver, Continuing Care Assistant, Bookkeeper",12,100.00000000000001
+Candidate_040,"Software Developer, Secondary School Teacher, Information Technology (IT) Analyst, Licensed Practical Nurse (L.P.N.), Bookkeeper",126,57.11158312154325
+Candidate_041,"Office Manager, Bookkeeper, Driver, Truck, Office Administrator, Software Developer",35,72.92959121904585
+Candidate_042,"Software Developer, Secondary School Teacher, Information Technology (IT) Analyst, Licensed Practical Nurse (L.P.N.), Bookkeeper",126,57.11158312154325
+Candidate_043,"Software Developer, Licensed Practical Nurse (L.P.N.), Inside Sales Representative, Retail Sales Associate, Information Technology (IT) Analyst",33,79.51527487025446
+Candidate_044,"Software Developer, Secondary School Teacher, Information Technology (IT) Analyst, Bookkeeper, Licensed Practical Nurse (L.P.N.)",126,77.88140520597507
+Candidate_045,"Administrative Assistant, Delivery Driver, Bookkeeper, Driver, Truck, Inside Sales Representative",4,78.96399917018356
+Candidate_046,"Bookkeeper, Software Developer, Office Manager, Office Administrator, Secondary School Teacher",126,61.708135549056855
+Candidate_047,"Office Manager, Food Service Supervisor, Administrative Assistant, Inside Sales Representative, Retail Sales Associate",18,96.94582726335692
+Candidate_048,"Bookkeeper, Software Developer, Office Manager, Office Administrator, Secondary School Teacher",126,61.708135549056855
+Candidate_049,"Driver, Truck, Administrative Assistant, Office Manager, Software Developer, Delivery Driver",34,55.3912480728712
+Candidate_050,"Administrative Assistant, Office Manager, Office Administrator, Driver, Truck, Inside Sales Representative",14,88.73166019558273
+Candidate_051,"Administrative Assistant, Software Developer, Driver, Truck, Office Manager, Office Administrator",34,44.739952030158896
+Candidate_052,"Software Developer, Secondary School Teacher, Information Technology (IT) Analyst, Bookkeeper, Licensed Practical Nurse (L.P.N.)",126,77.88140520597507
+Candidate_053,"Bookkeeper, Software Developer, Driver, Truck, Office Administrator, Office Manager",35,53.15932662306283
+Candidate_054,"Office Manager, Food Service Supervisor, Administrative Assistant, Inside Sales Representative, Retail Sales Associate",18,96.94582726335692
+Candidate_055,"Office Manager, Driver, Truck, Office Administrator, Secondary School Teacher, Software Developer",126,64.48540049644731
+Candidate_056,"Administrative Assistant, Office Manager, Office Administrator, Driver, Truck, Inside Sales Representative",14,88.73166019558273
+Candidate_057,"Software Developer, Information Technology (IT) Analyst, Inside Sales Representative, Retail Sales Associate, Administrative Assistant",33,90.03646152363238
+Candidate_058,"Administrative Assistant, Office Manager, Office Administrator, Inside Sales Representative, Retail Sales Associate",13,77.71618179268691
+Candidate_059,"Software Developer, Information Technology (IT) Analyst, Secondary School Teacher, Bookkeeper, Licensed Practical Nurse (L.P.N.)",126,67.3367505885963
+Candidate_060,"Software Developer, Secondary School Teacher, Information Technology (IT) Analyst, Licensed Practical Nurse (L.P.N.), Bookkeeper",126,57.11158312154325
+Candidate_061,"Food Service Supervisor, Administrative Assistant, Delivery Driver, Continuing Care Assistant, Bookkeeper",12,100.00000000000001
+Candidate_062,"Administrative Assistant, Office Manager, Office Administrator, Driver, Truck, Inside Sales Representative",14,88.73166019558273
+Candidate_063,"Administrative Assistant, Office Manager, Office Administrator, Inside Sales Representative, Retail Sales Associate",13,77.71618179268691

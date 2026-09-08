@@ -1,0 +1,14 @@
+validation_metric,value
+Expected candidates,63
+Actual candidates,63
+Duplicate candidate rows,0
+Top-1 occupation alignment errors,0
+Invalid hybrid scores,0
+Invalid demand scores,0
+Empty RAG explanations,0
+Invalid source references,0
+Gap candidates missing skill sources,0
+Candidates missing task sources,0
+Candidates missing demand sources,0
+Candidates missing education sources,0
+Final RAG validation pass,True

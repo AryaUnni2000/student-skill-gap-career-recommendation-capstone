@@ -1,0 +1,64 @@
+candidate_id,O*NET Only,O*NET + Job Bank,O*NET + CIP,All Datasets,jobbank_changed_top1,cip_changed_top1,all_changed_top1
+Candidate_001,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_002,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_003,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_004,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_005,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_006,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_007,Administrative Assistant,Food Service Supervisor,Administrative Assistant,Food Service Supervisor,True,False,True
+Candidate_008,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_009,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_010,Administrative Assistant,Food Service Supervisor,Administrative Assistant,Food Service Supervisor,True,False,True
+Candidate_011,Office Manager,Office Manager,Office Manager,Office Manager,False,False,False
+Candidate_012,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_013,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_014,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_015,Administrative Assistant,Food Service Supervisor,Administrative Assistant,Food Service Supervisor,True,False,True
+Candidate_016,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_017,Software Developer,Inside Sales Representative,Administrative Assistant,Administrative Assistant,True,True,True
+Candidate_018,Food Service Supervisor,Food Service Supervisor,Food Service Supervisor,Food Service Supervisor,False,False,False
+Candidate_019,Software Developer,Office Manager,Software Developer,Office Manager,True,False,True
+Candidate_020,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_021,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_022,Administrative Assistant,Food Service Supervisor,Administrative Assistant,Food Service Supervisor,True,False,True
+Candidate_023,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_024,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_025,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_026,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_027,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_028,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_029,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_030,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_031,Administrative Assistant,Retail Sales Associate,Administrative Assistant,Administrative Assistant,True,False,False
+Candidate_032,Food Service Supervisor,Food Service Supervisor,Food Service Supervisor,Food Service Supervisor,False,False,False
+Candidate_033,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_034,Administrative Assistant,Food Service Supervisor,Administrative Assistant,Food Service Supervisor,True,False,True
+Candidate_035,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_036,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_037,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_038,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_039,Food Service Supervisor,Food Service Supervisor,Food Service Supervisor,Food Service Supervisor,False,False,False
+Candidate_040,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_041,Software Developer,Office Manager,Software Developer,Office Manager,True,False,True
+Candidate_042,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_043,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_044,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_045,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_046,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_047,Administrative Assistant,Food Service Supervisor,Administrative Assistant,Food Service Supervisor,True,False,True
+Candidate_048,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_049,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_050,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_051,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_052,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_053,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_054,Administrative Assistant,Food Service Supervisor,Administrative Assistant,Food Service Supervisor,True,False,True
+Candidate_055,Software Developer,Office Manager,Software Developer,Office Manager,True,False,True
+Candidate_056,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_057,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_058,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_059,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_060,Software Developer,Software Developer,Software Developer,Software Developer,False,False,False
+Candidate_061,Administrative Assistant,Food Service Supervisor,Administrative Assistant,Food Service Supervisor,True,False,True
+Candidate_062,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False
+Candidate_063,Administrative Assistant,Administrative Assistant,Administrative Assistant,Administrative Assistant,False,False,False

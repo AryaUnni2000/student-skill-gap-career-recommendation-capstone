@@ -1,0 +1,7 @@
+recommendation_transition,candidate_count,percentage_of_changed
+Office Manager → Software Developer,6,25.0
+Administrative Assistant → Food Service Supervisor,6,25.0
+Office Manager → Food Service Supervisor,5,20.83
+Bookkeeper → Software Developer,5,20.83
+"Driver, Truck → Software Developer",1,4.17
+Administrative Assistant → Software Developer,1,4.17

@@ -1,0 +1,16 @@
+selected_occupation,recommendation_count,unique_candidates,average_hybrid_score,median_hybrid_score,average_rank,candidate_recommendation_percentage
+Software Developer,46,46,71.96,68.57,1.74,73.02
+Bookkeeper,37,37,73.61,74.05,2.86,58.73
+Administrative Assistant,35,35,82.81,93.24,2.46,55.56
+Office Manager,30,30,74.99,74.62,1.87,47.62
+Secondary School Teacher,30,30,63.67,63.8,3.3,47.62
+Office Administrator,26,26,71.61,70.38,3.38,41.27
+Information Technology (IT) Analyst,23,23,67.11,66.4,3.26,36.51
+Inside Sales Representative,19,19,90.33,90.57,4.21,30.16
+Licensed Practical Nurse (L.P.N.),17,17,67.2,67.26,3.88,26.98
+Food Service Supervisor,15,15,94.08,98.39,2.13,23.81
+"Driver, Truck",13,13,72.52,82.24,3.54,20.63
+Retail Sales Associate,9,9,91.74,98.27,3.33,14.29
+Continuing Care Assistant,7,7,100.0,100.0,3.0,11.11
+Restaurant Manager,5,5,71.33,66.46,4.4,7.94
+Delivery Driver,3,3,54.95,56.84,2.67,4.76

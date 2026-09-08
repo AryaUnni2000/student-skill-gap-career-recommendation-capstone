@@ -1,0 +1,315 @@
+candidate_id,cip_rank,CIP2020Code,CIP2020Title,cip_recommendation_percentage,supporting_occupations,best_occupation_rank,adjusted_cip_score
+Candidate_001,1,11.0102,Artificial Intelligence.,69.47300771208226,1,1,69.47300771208226
+Candidate_001,2,11.0103,Information Technology.,69.47300771208226,2,1,69.47300771208226
+Candidate_001,3,11.0104,Informatics.,69.47300771208226,2,1,69.47300771208226
+Candidate_001,4,11.0201,"Computer Programming/Programmer, General.",69.47300771208226,2,1,69.47300771208226
+Candidate_001,5,11.0202,"Computer Programming, Specific Applications.",69.47300771208226,2,1,69.47300771208226
+Candidate_002,1,1.0106,Agricultural Business Technology/Technician.,54.67625899280575,2,1,54.67625899280575
+Candidate_002,2,1.8201,"Veterinary Administrative Services, General.",54.67625899280575,2,1,54.67625899280575
+Candidate_002,3,1.8202,Veterinary Office Management/Administration.,54.67625899280575,2,1,54.67625899280575
+Candidate_002,4,1.8203,Veterinary Reception/Receptionist.,54.67625899280575,2,1,54.67625899280575
+Candidate_002,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,54.67625899280575,2,1,54.67625899280575
+Candidate_003,1,52.0401,"Administrative Assistant and Secretarial Science, General.",89.91596638655463,3,1,89.91596638655463
+Candidate_003,2,52.0402,Executive Assistant/Executive Secretary.,89.91596638655463,3,1,89.91596638655463
+Candidate_003,3,1.0106,Agricultural Business Technology/Technician.,89.20863309352518,2,2,89.20863309352518
+Candidate_003,4,1.8201,"Veterinary Administrative Services, General.",89.20863309352518,2,2,89.20863309352518
+Candidate_003,5,1.8202,Veterinary Office Management/Administration.,89.20863309352518,2,2,89.20863309352518
+Candidate_004,1,11.0102,Artificial Intelligence.,79.11311053984575,1,1,79.11311053984575
+Candidate_004,2,11.0103,Information Technology.,79.11311053984575,2,1,79.11311053984575
+Candidate_004,3,11.0104,Informatics.,79.11311053984575,2,1,79.11311053984575
+Candidate_004,4,11.0201,"Computer Programming/Programmer, General.",79.11311053984575,2,1,79.11311053984575
+Candidate_004,5,11.0202,"Computer Programming, Specific Applications.",79.11311053984575,2,1,79.11311053984575
+Candidate_005,1,11.0102,Artificial Intelligence.,52.217223650385606,1,1,52.217223650385606
+Candidate_005,2,11.0103,Information Technology.,52.217223650385606,1,1,52.217223650385606
+Candidate_005,3,11.0104,Informatics.,52.217223650385606,1,1,52.217223650385606
+Candidate_005,4,11.0201,"Computer Programming/Programmer, General.",52.217223650385606,1,1,52.217223650385606
+Candidate_005,5,11.0202,"Computer Programming, Specific Applications.",52.217223650385606,1,1,52.217223650385606
+Candidate_006,1,11.0102,Artificial Intelligence.,90.35989717223649,1,1,90.35989717223649
+Candidate_006,2,11.0103,Information Technology.,90.35989717223649,2,1,90.35989717223649
+Candidate_006,3,11.0104,Informatics.,90.35989717223649,2,1,90.35989717223649
+Candidate_006,4,11.0201,"Computer Programming/Programmer, General.",90.35989717223649,2,1,90.35989717223649
+Candidate_006,5,11.0202,"Computer Programming, Specific Applications.",90.35989717223649,2,1,90.35989717223649
+Candidate_007,1,12.05,"Cooking and Related Culinary Arts, General.",100.00000000000003,1,1,100.00000000000003
+Candidate_007,2,12.0503,Culinary Arts/Chef Training.,100.00000000000003,1,1,100.00000000000003
+Candidate_007,3,12.0504,"Restaurant, Culinary, and Catering Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_007,4,12.0507,"Food Service, Waiter/Waitress, and Dining Room Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_007,5,19.0505,Foodservice Systems Administration/Management.,100.00000000000003,1,1,100.00000000000003
+Candidate_008,1,11.0102,Artificial Intelligence.,68.66966580976863,1,1,68.66966580976863
+Candidate_008,2,11.0103,Information Technology.,68.66966580976863,2,1,68.66966580976863
+Candidate_008,3,11.0104,Informatics.,68.66966580976863,2,1,68.66966580976863
+Candidate_008,4,11.0201,"Computer Programming/Programmer, General.",68.66966580976863,2,1,68.66966580976863
+Candidate_008,5,11.0202,"Computer Programming, Specific Applications.",68.66966580976863,2,1,68.66966580976863
+Candidate_009,1,52.0401,"Administrative Assistant and Secretarial Science, General.",25.647058823529413,2,1,25.647058823529413
+Candidate_009,2,52.0402,Executive Assistant/Executive Secretary.,25.647058823529413,2,1,25.647058823529413
+Candidate_009,3,1.0106,Agricultural Business Technology/Technician.,23.175837320574168,1,2,23.175837320574168
+Candidate_009,4,1.8201,"Veterinary Administrative Services, General.",23.175837320574168,1,2,23.175837320574168
+Candidate_009,5,1.8202,Veterinary Office Management/Administration.,23.175837320574168,1,2,23.175837320574168
+Candidate_010,1,1.0106,Agricultural Business Technology/Technician.,97.12230215827337,1,1,97.12230215827337
+Candidate_010,2,1.8201,"Veterinary Administrative Services, General.",97.12230215827337,1,1,97.12230215827337
+Candidate_010,3,1.8202,Veterinary Office Management/Administration.,97.12230215827337,1,1,97.12230215827337
+Candidate_010,4,1.8203,Veterinary Reception/Receptionist.,97.12230215827337,1,1,97.12230215827337
+Candidate_010,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,97.12230215827337,1,1,97.12230215827337
+Candidate_011,1,1.0106,Agricultural Business Technology/Technician.,66.18705035971223,2,1,66.18705035971223
+Candidate_011,2,1.8201,"Veterinary Administrative Services, General.",66.18705035971223,2,1,66.18705035971223
+Candidate_011,3,1.8202,Veterinary Office Management/Administration.,66.18705035971223,2,1,66.18705035971223
+Candidate_011,4,1.8203,Veterinary Reception/Receptionist.,66.18705035971223,2,1,66.18705035971223
+Candidate_011,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,66.18705035971223,2,1,66.18705035971223
+Candidate_012,1,11.0102,Artificial Intelligence.,68.66966580976863,1,1,68.66966580976863
+Candidate_012,2,11.0103,Information Technology.,68.66966580976863,2,1,68.66966580976863
+Candidate_012,3,11.0104,Informatics.,68.66966580976863,2,1,68.66966580976863
+Candidate_012,4,11.0201,"Computer Programming/Programmer, General.",68.66966580976863,2,1,68.66966580976863
+Candidate_012,5,11.0202,"Computer Programming, Specific Applications.",68.66966580976863,2,1,68.66966580976863
+Candidate_013,1,11.0102,Artificial Intelligence.,52.217223650385606,1,1,52.217223650385606
+Candidate_013,2,11.0103,Information Technology.,52.217223650385606,1,1,52.217223650385606
+Candidate_013,3,11.0104,Informatics.,52.217223650385606,1,1,52.217223650385606
+Candidate_013,4,11.0201,"Computer Programming/Programmer, General.",52.217223650385606,1,1,52.217223650385606
+Candidate_013,5,11.0202,"Computer Programming, Specific Applications.",52.217223650385606,1,1,52.217223650385606
+Candidate_014,1,11.0102,Artificial Intelligence.,59.029562982005146,1,1,59.029562982005146
+Candidate_014,2,11.0103,Information Technology.,59.029562982005146,2,1,59.029562982005146
+Candidate_014,3,11.0104,Informatics.,59.029562982005146,2,1,59.029562982005146
+Candidate_014,4,11.0201,"Computer Programming/Programmer, General.",59.029562982005146,2,1,59.029562982005146
+Candidate_014,5,11.0202,"Computer Programming, Specific Applications.",59.029562982005146,2,1,59.029562982005146
+Candidate_015,1,12.05,"Cooking and Related Culinary Arts, General.",100.00000000000003,1,1,100.00000000000003
+Candidate_015,2,12.0503,Culinary Arts/Chef Training.,100.00000000000003,1,1,100.00000000000003
+Candidate_015,3,12.0504,"Restaurant, Culinary, and Catering Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_015,4,12.0507,"Food Service, Waiter/Waitress, and Dining Room Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_015,5,19.0505,Foodservice Systems Administration/Management.,100.00000000000003,1,1,100.00000000000003
+Candidate_016,1,11.0102,Artificial Intelligence.,79.9164524421594,1,1,79.9164524421594
+Candidate_016,2,11.0103,Information Technology.,79.9164524421594,2,1,79.9164524421594
+Candidate_016,3,11.0104,Informatics.,79.9164524421594,2,1,79.9164524421594
+Candidate_016,4,11.0201,"Computer Programming/Programmer, General.",79.9164524421594,2,1,79.9164524421594
+Candidate_016,5,11.0202,"Computer Programming, Specific Applications.",79.9164524421594,2,1,79.9164524421594
+Candidate_017,1,52.0401,"Administrative Assistant and Secretarial Science, General.",86.15126050420167,3,1,86.15126050420167
+Candidate_017,2,52.0402,Executive Assistant/Executive Secretary.,86.15126050420167,3,1,86.15126050420167
+Candidate_017,3,1.0106,Agricultural Business Technology/Technician.,85.79545454545455,2,3,85.79545454545455
+Candidate_017,4,1.8201,"Veterinary Administrative Services, General.",85.79545454545455,2,3,85.79545454545455
+Candidate_017,5,1.8202,Veterinary Office Management/Administration.,85.79545454545455,2,3,85.79545454545455
+Candidate_018,1,12.05,"Cooking and Related Culinary Arts, General.",100.00000000000003,1,1,100.00000000000003
+Candidate_018,2,12.0503,Culinary Arts/Chef Training.,100.00000000000003,1,1,100.00000000000003
+Candidate_018,3,12.0504,"Restaurant, Culinary, and Catering Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_018,4,12.0507,"Food Service, Waiter/Waitress, and Dining Room Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_018,5,19.0505,Foodservice Systems Administration/Management.,100.00000000000003,1,1,100.00000000000003
+Candidate_019,1,1.0106,Agricultural Business Technology/Technician.,74.10071942446042,2,1,74.10071942446042
+Candidate_019,2,1.8201,"Veterinary Administrative Services, General.",74.10071942446042,2,1,74.10071942446042
+Candidate_019,3,1.8202,Veterinary Office Management/Administration.,74.10071942446042,2,1,74.10071942446042
+Candidate_019,4,1.8203,Veterinary Reception/Receptionist.,74.10071942446042,2,1,74.10071942446042
+Candidate_019,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,74.10071942446042,2,1,74.10071942446042
+Candidate_020,1,52.0302,Accounting Technology/Technician and Bookkeeping.,62.85410764872521,1,1,62.85410764872521
+Candidate_020,2,11.0102,Artificial Intelligence.,62.660668380462724,1,2,62.660668380462724
+Candidate_020,3,11.0103,Information Technology.,62.660668380462724,1,2,62.660668380462724
+Candidate_020,4,11.0104,Informatics.,62.660668380462724,1,2,62.660668380462724
+Candidate_020,5,11.0201,"Computer Programming/Programmer, General.",62.660668380462724,1,2,62.660668380462724
+Candidate_021,1,52.0302,Accounting Technology/Technician and Bookkeeping.,62.85410764872521,1,1,62.85410764872521
+Candidate_021,2,11.0102,Artificial Intelligence.,62.660668380462724,1,2,62.660668380462724
+Candidate_021,3,11.0103,Information Technology.,62.660668380462724,1,2,62.660668380462724
+Candidate_021,4,11.0104,Informatics.,62.660668380462724,1,2,62.660668380462724
+Candidate_021,5,11.0201,"Computer Programming/Programmer, General.",62.660668380462724,1,2,62.660668380462724
+Candidate_022,1,1.0106,Agricultural Business Technology/Technician.,97.12230215827337,1,1,97.12230215827337
+Candidate_022,2,1.8201,"Veterinary Administrative Services, General.",97.12230215827337,1,1,97.12230215827337
+Candidate_022,3,1.8202,Veterinary Office Management/Administration.,97.12230215827337,1,1,97.12230215827337
+Candidate_022,4,1.8203,Veterinary Reception/Receptionist.,97.12230215827337,1,1,97.12230215827337
+Candidate_022,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,97.12230215827337,1,1,97.12230215827337
+Candidate_023,1,1.0106,Agricultural Business Technology/Technician.,54.67625899280575,2,1,54.67625899280575
+Candidate_023,2,1.8201,"Veterinary Administrative Services, General.",54.67625899280575,2,1,54.67625899280575
+Candidate_023,3,1.8202,Veterinary Office Management/Administration.,54.67625899280575,2,1,54.67625899280575
+Candidate_023,4,1.8203,Veterinary Reception/Receptionist.,54.67625899280575,2,1,54.67625899280575
+Candidate_023,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,54.67625899280575,2,1,54.67625899280575
+Candidate_024,1,1.0106,Agricultural Business Technology/Technician.,74.10071942446042,2,1,74.10071942446042
+Candidate_024,2,1.8201,"Veterinary Administrative Services, General.",74.10071942446042,2,1,74.10071942446042
+Candidate_024,3,1.8202,Veterinary Office Management/Administration.,74.10071942446042,2,1,74.10071942446042
+Candidate_024,4,1.8203,Veterinary Reception/Receptionist.,74.10071942446042,2,1,74.10071942446042
+Candidate_024,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,74.10071942446042,2,1,74.10071942446042
+Candidate_025,1,11.0102,Artificial Intelligence.,69.47300771208226,1,1,69.47300771208226
+Candidate_025,2,11.0103,Information Technology.,69.47300771208226,2,1,69.47300771208226
+Candidate_025,3,11.0104,Informatics.,69.47300771208226,2,1,69.47300771208226
+Candidate_025,4,11.0201,"Computer Programming/Programmer, General.",69.47300771208226,2,1,69.47300771208226
+Candidate_025,5,11.0202,"Computer Programming, Specific Applications.",69.47300771208226,2,1,69.47300771208226
+Candidate_026,1,11.0102,Artificial Intelligence.,68.66966580976863,1,1,68.66966580976863
+Candidate_026,2,11.0103,Information Technology.,68.66966580976863,2,1,68.66966580976863
+Candidate_026,3,11.0104,Informatics.,68.66966580976863,2,1,68.66966580976863
+Candidate_026,4,11.0201,"Computer Programming/Programmer, General.",68.66966580976863,2,1,68.66966580976863
+Candidate_026,5,11.0202,"Computer Programming, Specific Applications.",68.66966580976863,2,1,68.66966580976863
+Candidate_027,1,1.0106,Agricultural Business Technology/Technician.,54.67625899280575,2,1,54.67625899280575
+Candidate_027,2,1.8201,"Veterinary Administrative Services, General.",54.67625899280575,2,1,54.67625899280575
+Candidate_027,3,1.8202,Veterinary Office Management/Administration.,54.67625899280575,2,1,54.67625899280575
+Candidate_027,4,1.8203,Veterinary Reception/Receptionist.,54.67625899280575,2,1,54.67625899280575
+Candidate_027,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,54.67625899280575,2,1,54.67625899280575
+Candidate_028,1,1.0106,Agricultural Business Technology/Technician.,54.67625899280575,2,1,54.67625899280575
+Candidate_028,2,1.8201,"Veterinary Administrative Services, General.",54.67625899280575,2,1,54.67625899280575
+Candidate_028,3,1.8202,Veterinary Office Management/Administration.,54.67625899280575,2,1,54.67625899280575
+Candidate_028,4,1.8203,Veterinary Reception/Receptionist.,54.67625899280575,2,1,54.67625899280575
+Candidate_028,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,54.67625899280575,2,1,54.67625899280575
+Candidate_029,1,12.05,"Cooking and Related Culinary Arts, General.",100.00000000000003,1,1,100.00000000000003
+Candidate_029,2,12.0503,Culinary Arts/Chef Training.,100.00000000000003,1,1,100.00000000000003
+Candidate_029,3,12.0504,"Restaurant, Culinary, and Catering Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_029,4,12.0507,"Food Service, Waiter/Waitress, and Dining Room Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_029,5,19.0505,Foodservice Systems Administration/Management.,100.00000000000003,1,1,100.00000000000003
+Candidate_030,1,1.0106,Agricultural Business Technology/Technician.,54.67625899280575,2,1,54.67625899280575
+Candidate_030,2,1.8201,"Veterinary Administrative Services, General.",54.67625899280575,2,1,54.67625899280575
+Candidate_030,3,1.8202,Veterinary Office Management/Administration.,54.67625899280575,2,1,54.67625899280575
+Candidate_030,4,1.8203,Veterinary Reception/Receptionist.,54.67625899280575,2,1,54.67625899280575
+Candidate_030,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,54.67625899280575,2,1,54.67625899280575
+Candidate_031,1,52.0401,"Administrative Assistant and Secretarial Science, General.",86.15126050420167,3,1,86.15126050420167
+Candidate_031,2,52.0402,Executive Assistant/Executive Secretary.,86.15126050420167,3,1,86.15126050420167
+Candidate_031,3,1.0106,Agricultural Business Technology/Technician.,85.79545454545455,2,3,85.79545454545455
+Candidate_031,4,1.8201,"Veterinary Administrative Services, General.",85.79545454545455,2,3,85.79545454545455
+Candidate_031,5,1.8202,Veterinary Office Management/Administration.,85.79545454545455,2,3,85.79545454545455
+Candidate_032,1,12.05,"Cooking and Related Culinary Arts, General.",100.00000000000003,1,1,100.00000000000003
+Candidate_032,2,12.0503,Culinary Arts/Chef Training.,100.00000000000003,1,1,100.00000000000003
+Candidate_032,3,12.0504,"Restaurant, Culinary, and Catering Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_032,4,12.0507,"Food Service, Waiter/Waitress, and Dining Room Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_032,5,19.0505,Foodservice Systems Administration/Management.,100.00000000000003,1,1,100.00000000000003
+Candidate_033,1,52.0401,"Administrative Assistant and Secretarial Science, General.",89.91596638655463,3,1,89.91596638655463
+Candidate_033,2,52.0402,Executive Assistant/Executive Secretary.,89.91596638655463,3,1,89.91596638655463
+Candidate_033,3,1.0106,Agricultural Business Technology/Technician.,89.20863309352518,2,2,89.20863309352518
+Candidate_033,4,1.8201,"Veterinary Administrative Services, General.",89.20863309352518,2,2,89.20863309352518
+Candidate_033,5,1.8202,Veterinary Office Management/Administration.,89.20863309352518,2,2,89.20863309352518
+Candidate_034,1,1.0106,Agricultural Business Technology/Technician.,97.12230215827337,1,1,97.12230215827337
+Candidate_034,2,1.8201,"Veterinary Administrative Services, General.",97.12230215827337,1,1,97.12230215827337
+Candidate_034,3,1.8202,Veterinary Office Management/Administration.,97.12230215827337,1,1,97.12230215827337
+Candidate_034,4,1.8203,Veterinary Reception/Receptionist.,97.12230215827337,1,1,97.12230215827337
+Candidate_034,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,97.12230215827337,1,1,97.12230215827337
+Candidate_035,1,11.0102,Artificial Intelligence.,90.35989717223649,1,1,90.35989717223649
+Candidate_035,2,11.0103,Information Technology.,90.35989717223649,2,1,90.35989717223649
+Candidate_035,3,11.0104,Informatics.,90.35989717223649,2,1,90.35989717223649
+Candidate_035,4,11.0201,"Computer Programming/Programmer, General.",90.35989717223649,2,1,90.35989717223649
+Candidate_035,5,11.0202,"Computer Programming, Specific Applications.",90.35989717223649,2,1,90.35989717223649
+Candidate_036,1,52.0401,"Administrative Assistant and Secretarial Science, General.",89.91596638655463,3,1,89.91596638655463
+Candidate_036,2,52.0402,Executive Assistant/Executive Secretary.,89.91596638655463,3,1,89.91596638655463
+Candidate_036,3,1.0106,Agricultural Business Technology/Technician.,89.20863309352518,2,2,89.20863309352518
+Candidate_036,4,1.8201,"Veterinary Administrative Services, General.",89.20863309352518,2,2,89.20863309352518
+Candidate_036,5,1.8202,Veterinary Office Management/Administration.,89.20863309352518,2,2,89.20863309352518
+Candidate_037,1,11.0102,Artificial Intelligence.,79.11311053984575,1,1,79.11311053984575
+Candidate_037,2,11.0103,Information Technology.,79.11311053984575,2,1,79.11311053984575
+Candidate_037,3,11.0104,Informatics.,79.11311053984575,2,1,79.11311053984575
+Candidate_037,4,11.0201,"Computer Programming/Programmer, General.",79.11311053984575,2,1,79.11311053984575
+Candidate_037,5,11.0202,"Computer Programming, Specific Applications.",79.11311053984575,2,1,79.11311053984575
+Candidate_038,1,11.0102,Artificial Intelligence.,69.47300771208226,1,1,69.47300771208226
+Candidate_038,2,11.0103,Information Technology.,69.47300771208226,2,1,69.47300771208226
+Candidate_038,3,11.0104,Informatics.,69.47300771208226,2,1,69.47300771208226
+Candidate_038,4,11.0201,"Computer Programming/Programmer, General.",69.47300771208226,2,1,69.47300771208226
+Candidate_038,5,11.0202,"Computer Programming, Specific Applications.",69.47300771208226,2,1,69.47300771208226
+Candidate_039,1,12.05,"Cooking and Related Culinary Arts, General.",100.00000000000003,1,1,100.00000000000003
+Candidate_039,2,12.0503,Culinary Arts/Chef Training.,100.00000000000003,1,1,100.00000000000003
+Candidate_039,3,12.0504,"Restaurant, Culinary, and Catering Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_039,4,12.0507,"Food Service, Waiter/Waitress, and Dining Room Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_039,5,19.0505,Foodservice Systems Administration/Management.,100.00000000000003,1,1,100.00000000000003
+Candidate_040,1,11.0102,Artificial Intelligence.,59.029562982005146,1,1,59.029562982005146
+Candidate_040,2,11.0103,Information Technology.,59.029562982005146,2,1,59.029562982005146
+Candidate_040,3,11.0104,Informatics.,59.029562982005146,2,1,59.029562982005146
+Candidate_040,4,11.0201,"Computer Programming/Programmer, General.",59.029562982005146,2,1,59.029562982005146
+Candidate_040,5,11.0202,"Computer Programming, Specific Applications.",59.029562982005146,2,1,59.029562982005146
+Candidate_041,1,1.0106,Agricultural Business Technology/Technician.,74.10071942446042,2,1,74.10071942446042
+Candidate_041,2,1.8201,"Veterinary Administrative Services, General.",74.10071942446042,2,1,74.10071942446042
+Candidate_041,3,1.8202,Veterinary Office Management/Administration.,74.10071942446042,2,1,74.10071942446042
+Candidate_041,4,1.8203,Veterinary Reception/Receptionist.,74.10071942446042,2,1,74.10071942446042
+Candidate_041,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,74.10071942446042,2,1,74.10071942446042
+Candidate_042,1,11.0102,Artificial Intelligence.,59.029562982005146,1,1,59.029562982005146
+Candidate_042,2,11.0103,Information Technology.,59.029562982005146,2,1,59.029562982005146
+Candidate_042,3,11.0104,Informatics.,59.029562982005146,2,1,59.029562982005146
+Candidate_042,4,11.0201,"Computer Programming/Programmer, General.",59.029562982005146,2,1,59.029562982005146
+Candidate_042,5,11.0202,"Computer Programming, Specific Applications.",59.029562982005146,2,1,59.029562982005146
+Candidate_043,1,11.0102,Artificial Intelligence.,79.9164524421594,1,1,79.9164524421594
+Candidate_043,2,11.0103,Information Technology.,79.9164524421594,2,1,79.9164524421594
+Candidate_043,3,11.0104,Informatics.,79.9164524421594,2,1,79.9164524421594
+Candidate_043,4,11.0201,"Computer Programming/Programmer, General.",79.9164524421594,2,1,79.9164524421594
+Candidate_043,5,11.0202,"Computer Programming, Specific Applications.",79.9164524421594,2,1,79.9164524421594
+Candidate_044,1,11.0102,Artificial Intelligence.,79.11311053984575,1,1,79.11311053984575
+Candidate_044,2,11.0103,Information Technology.,79.11311053984575,2,1,79.11311053984575
+Candidate_044,3,11.0104,Informatics.,79.11311053984575,2,1,79.11311053984575
+Candidate_044,4,11.0201,"Computer Programming/Programmer, General.",79.11311053984575,2,1,79.11311053984575
+Candidate_044,5,11.0202,"Computer Programming, Specific Applications.",79.11311053984575,2,1,79.11311053984575
+Candidate_045,1,52.0401,"Administrative Assistant and Secretarial Science, General.",79.83193277310924,1,1,79.83193277310924
+Candidate_045,2,52.0402,Executive Assistant/Executive Secretary.,79.83193277310924,1,1,79.83193277310924
+Candidate_045,3,49.0205,Truck and Bus Driver/Commercial Vehicle Operator and Instructor.,79.62674961119752,2,2,79.62674961119752
+Candidate_045,4,52.0302,Accounting Technology/Technician and Bookkeeping.,79.21388101983003,1,3,79.21388101983003
+Candidate_046,1,52.0302,Accounting Technology/Technician and Bookkeeping.,62.85410764872521,1,1,62.85410764872521
+Candidate_046,2,11.0102,Artificial Intelligence.,62.660668380462724,1,2,62.660668380462724
+Candidate_046,3,11.0103,Information Technology.,62.660668380462724,1,2,62.660668380462724
+Candidate_046,4,11.0104,Informatics.,62.660668380462724,1,2,62.660668380462724
+Candidate_046,5,11.0201,"Computer Programming/Programmer, General.",62.660668380462724,1,2,62.660668380462724
+Candidate_047,1,1.0106,Agricultural Business Technology/Technician.,97.12230215827337,1,1,97.12230215827337
+Candidate_047,2,1.8201,"Veterinary Administrative Services, General.",97.12230215827337,1,1,97.12230215827337
+Candidate_047,3,1.8202,Veterinary Office Management/Administration.,97.12230215827337,1,1,97.12230215827337
+Candidate_047,4,1.8203,Veterinary Reception/Receptionist.,97.12230215827337,1,1,97.12230215827337
+Candidate_047,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,97.12230215827337,1,1,97.12230215827337
+Candidate_048,1,52.0302,Accounting Technology/Technician and Bookkeeping.,62.85410764872521,1,1,62.85410764872521
+Candidate_048,2,11.0102,Artificial Intelligence.,62.660668380462724,1,2,62.660668380462724
+Candidate_048,3,11.0103,Information Technology.,62.660668380462724,1,2,62.660668380462724
+Candidate_048,4,11.0104,Informatics.,62.660668380462724,1,2,62.660668380462724
+Candidate_048,5,11.0201,"Computer Programming/Programmer, General.",62.660668380462724,1,2,62.660668380462724
+Candidate_049,1,49.0205,Truck and Bus Driver/Commercial Vehicle Operator and Instructor.,56.91089108910891,2,1,56.91089108910891
+Candidate_049,2,52.0401,"Administrative Assistant and Secretarial Science, General.",55.89915966386555,2,2,55.89915966386555
+Candidate_049,3,52.0402,Executive Assistant/Executive Secretary.,55.89915966386555,2,2,55.89915966386555
+Candidate_049,4,1.0106,Agricultural Business Technology/Technician.,55.76978417266187,1,3,55.76978417266187
+Candidate_049,5,1.8201,"Veterinary Administrative Services, General.",55.76978417266187,1,3,55.76978417266187
+Candidate_050,1,52.0401,"Administrative Assistant and Secretarial Science, General.",89.91596638655463,3,1,89.91596638655463
+Candidate_050,2,52.0402,Executive Assistant/Executive Secretary.,89.91596638655463,3,1,89.91596638655463
+Candidate_050,3,1.0106,Agricultural Business Technology/Technician.,89.20863309352518,2,2,89.20863309352518
+Candidate_050,4,1.8201,"Veterinary Administrative Services, General.",89.20863309352518,2,2,89.20863309352518
+Candidate_050,5,1.8202,Veterinary Office Management/Administration.,89.20863309352518,2,2,89.20863309352518
+Candidate_051,1,52.0401,"Administrative Assistant and Secretarial Science, General.",45.41176470588235,3,1,45.41176470588235
+Candidate_051,2,52.0402,Executive Assistant/Executive Secretary.,45.41176470588235,3,1,45.41176470588235
+Candidate_051,3,11.0102,Artificial Intelligence.,45.40488431876607,1,2,45.40488431876607
+Candidate_051,4,11.0103,Information Technology.,45.40488431876607,1,2,45.40488431876607
+Candidate_051,5,11.0104,Informatics.,45.40488431876607,1,2,45.40488431876607
+Candidate_052,1,11.0102,Artificial Intelligence.,79.11311053984575,1,1,79.11311053984575
+Candidate_052,2,11.0103,Information Technology.,79.11311053984575,2,1,79.11311053984575
+Candidate_052,3,11.0104,Informatics.,79.11311053984575,2,1,79.11311053984575
+Candidate_052,4,11.0201,"Computer Programming/Programmer, General.",79.11311053984575,2,1,79.11311053984575
+Candidate_052,5,11.0202,"Computer Programming, Specific Applications.",79.11311053984575,2,1,79.11311053984575
+Candidate_053,1,52.0302,Accounting Technology/Technician and Bookkeeping.,55.77195467422096,1,1,55.77195467422096
+Candidate_053,2,11.0102,Artificial Intelligence.,54.24164524421594,1,2,54.24164524421594
+Candidate_053,3,11.0103,Information Technology.,54.24164524421594,1,2,54.24164524421594
+Candidate_053,4,11.0104,Informatics.,54.24164524421594,1,2,54.24164524421594
+Candidate_053,5,11.0201,"Computer Programming/Programmer, General.",54.24164524421594,1,2,54.24164524421594
+Candidate_054,1,1.0106,Agricultural Business Technology/Technician.,97.12230215827337,1,1,97.12230215827337
+Candidate_054,2,1.8201,"Veterinary Administrative Services, General.",97.12230215827337,1,1,97.12230215827337
+Candidate_054,3,1.8202,Veterinary Office Management/Administration.,97.12230215827337,1,1,97.12230215827337
+Candidate_054,4,1.8203,Veterinary Reception/Receptionist.,97.12230215827337,1,1,97.12230215827337
+Candidate_054,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,97.12230215827337,1,1,97.12230215827337
+Candidate_055,1,1.0106,Agricultural Business Technology/Technician.,66.18705035971223,2,1,66.18705035971223
+Candidate_055,2,1.8201,"Veterinary Administrative Services, General.",66.18705035971223,2,1,66.18705035971223
+Candidate_055,3,1.8202,Veterinary Office Management/Administration.,66.18705035971223,2,1,66.18705035971223
+Candidate_055,4,1.8203,Veterinary Reception/Receptionist.,66.18705035971223,2,1,66.18705035971223
+Candidate_055,5,1.8204,Veterinary Administrative/Executive Assistant and Veterinary Secretary.,66.18705035971223,2,1,66.18705035971223
+Candidate_056,1,52.0401,"Administrative Assistant and Secretarial Science, General.",89.91596638655463,3,1,89.91596638655463
+Candidate_056,2,52.0402,Executive Assistant/Executive Secretary.,89.91596638655463,3,1,89.91596638655463
+Candidate_056,3,1.0106,Agricultural Business Technology/Technician.,89.20863309352518,2,2,89.20863309352518
+Candidate_056,4,1.8201,"Veterinary Administrative Services, General.",89.20863309352518,2,2,89.20863309352518
+Candidate_056,5,1.8202,Veterinary Office Management/Administration.,89.20863309352518,2,2,89.20863309352518
+Candidate_057,1,11.0102,Artificial Intelligence.,90.35989717223649,1,1,90.35989717223649
+Candidate_057,2,11.0103,Information Technology.,90.35989717223649,2,1,90.35989717223649
+Candidate_057,3,11.0104,Informatics.,90.35989717223649,2,1,90.35989717223649
+Candidate_057,4,11.0201,"Computer Programming/Programmer, General.",90.35989717223649,2,1,90.35989717223649
+Candidate_057,5,11.0202,"Computer Programming, Specific Applications.",90.35989717223649,2,1,90.35989717223649
+Candidate_058,1,52.0401,"Administrative Assistant and Secretarial Science, General.",79.42857142857143,3,1,79.42857142857143
+Candidate_058,2,52.0402,Executive Assistant/Executive Secretary.,79.42857142857143,3,1,79.42857142857143
+Candidate_058,3,1.0106,Agricultural Business Technology/Technician.,77.6978417266187,2,2,77.6978417266187
+Candidate_058,4,1.8201,"Veterinary Administrative Services, General.",77.6978417266187,2,2,77.6978417266187
+Candidate_058,5,1.8202,Veterinary Office Management/Administration.,77.6978417266187,2,2,77.6978417266187
+Candidate_059,1,11.0102,Artificial Intelligence.,69.47300771208226,1,1,69.47300771208226
+Candidate_059,2,11.0103,Information Technology.,69.47300771208226,2,1,69.47300771208226
+Candidate_059,3,11.0104,Informatics.,69.47300771208226,2,1,69.47300771208226
+Candidate_059,4,11.0201,"Computer Programming/Programmer, General.",69.47300771208226,2,1,69.47300771208226
+Candidate_059,5,11.0202,"Computer Programming, Specific Applications.",69.47300771208226,2,1,69.47300771208226
+Candidate_060,1,11.0102,Artificial Intelligence.,59.029562982005146,1,1,59.029562982005146
+Candidate_060,2,11.0103,Information Technology.,59.029562982005146,2,1,59.029562982005146
+Candidate_060,3,11.0104,Informatics.,59.029562982005146,2,1,59.029562982005146
+Candidate_060,4,11.0201,"Computer Programming/Programmer, General.",59.029562982005146,2,1,59.029562982005146
+Candidate_060,5,11.0202,"Computer Programming, Specific Applications.",59.029562982005146,2,1,59.029562982005146
+Candidate_061,1,12.05,"Cooking and Related Culinary Arts, General.",100.00000000000003,1,1,100.00000000000003
+Candidate_061,2,12.0503,Culinary Arts/Chef Training.,100.00000000000003,1,1,100.00000000000003
+Candidate_061,3,12.0504,"Restaurant, Culinary, and Catering Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_061,4,12.0507,"Food Service, Waiter/Waitress, and Dining Room Management/Manager.",100.00000000000003,1,1,100.00000000000003
+Candidate_061,5,19.0505,Foodservice Systems Administration/Management.,100.00000000000003,1,1,100.00000000000003
+Candidate_062,1,52.0401,"Administrative Assistant and Secretarial Science, General.",89.91596638655463,3,1,89.91596638655463
+Candidate_062,2,52.0402,Executive Assistant/Executive Secretary.,89.91596638655463,3,1,89.91596638655463
+Candidate_062,3,1.0106,Agricultural Business Technology/Technician.,89.20863309352518,2,2,89.20863309352518
+Candidate_062,4,1.8201,"Veterinary Administrative Services, General.",89.20863309352518,2,2,89.20863309352518
+Candidate_062,5,1.8202,Veterinary Office Management/Administration.,89.20863309352518,2,2,89.20863309352518
+Candidate_063,1,52.0401,"Administrative Assistant and Secretarial Science, General.",79.42857142857143,3,1,79.42857142857143
+Candidate_063,2,52.0402,Executive Assistant/Executive Secretary.,79.42857142857143,3,1,79.42857142857143
+Candidate_063,3,1.0106,Agricultural Business Technology/Technician.,77.6978417266187,2,2,77.6978417266187
+Candidate_063,4,1.8201,"Veterinary Administrative Services, General.",77.6978417266187,2,2,77.6978417266187
+Candidate_063,5,1.8202,Veterinary Office Management/Administration.,77.6978417266187,2,2,77.6978417266187

@@ -1,0 +1,64 @@
+candidate_id,top1_occupation,top1_score,top2_occupation,top2_score,score_gap,recommendation_confidence
+Candidate_001,Software Developer,69.05,Information Technology (IT) Analyst,66.4,2.65,High Confidence
+Candidate_002,Office Manager,55.62,Software Developer,55.42,0.2,Low Confidence
+Candidate_003,Administrative Assistant,93.24,Office Manager,91.62,1.62,High Confidence
+Candidate_004,Software Developer,78.59,Secondary School Teacher,76.97,1.62,High Confidence
+Candidate_005,Software Developer,53.35,Bookkeeper,52.65,0.7,Low Confidence
+Candidate_006,Software Developer,90.46,Bookkeeper,89.72,0.74,Moderate Confidence
+Candidate_007,Food Service Supervisor,100.0,Administrative Assistant,100.0,0.0,Low Confidence
+Candidate_008,Software Developer,68.08,Licensed Practical Nurse (L.P.N.),67.26,0.83,Moderate Confidence
+Candidate_009,Administrative Assistant,27.73,Delivery Driver,24.21,3.52,High Confidence
+Candidate_010,Office Manager,98.56,Food Service Supervisor,98.39,0.17,Low Confidence
+Candidate_011,Office Manager,67.69,Office Administrator,66.83,0.86,Moderate Confidence
+Candidate_012,Software Developer,68.08,Licensed Practical Nurse (L.P.N.),67.26,0.83,Moderate Confidence
+Candidate_013,Software Developer,53.35,Bookkeeper,52.65,0.7,Low Confidence
+Candidate_014,Software Developer,58.55,Secondary School Teacher,55.87,2.68,High Confidence
+Candidate_015,Food Service Supervisor,100.0,Administrative Assistant,100.0,0.0,Low Confidence
+Candidate_016,Software Developer,79.96,Licensed Practical Nurse (L.P.N.),79.21,0.75,Moderate Confidence
+Candidate_017,Administrative Assistant,87.71,Bookkeeper,87.66,0.05,Low Confidence
+Candidate_018,Food Service Supervisor,100.0,Administrative Assistant,100.0,0.0,Low Confidence
+Candidate_019,Office Manager,74.62,Bookkeeper,74.05,0.57,Low Confidence
+Candidate_020,Software Developer,63.86,Bookkeeper,63.77,0.08,Low Confidence
+Candidate_021,Software Developer,63.86,Bookkeeper,63.77,0.08,Low Confidence
+Candidate_022,Office Manager,98.56,Food Service Supervisor,98.39,0.17,Low Confidence
+Candidate_023,Office Manager,55.62,Software Developer,55.42,0.2,Low Confidence
+Candidate_024,Office Manager,74.62,Bookkeeper,74.05,0.57,Low Confidence
+Candidate_025,Software Developer,69.05,Information Technology (IT) Analyst,66.4,2.65,High Confidence
+Candidate_026,Software Developer,68.08,Licensed Practical Nurse (L.P.N.),67.26,0.83,Moderate Confidence
+Candidate_027,Office Manager,55.62,Software Developer,55.42,0.2,Low Confidence
+Candidate_028,Office Manager,55.62,Software Developer,55.42,0.2,Low Confidence
+Candidate_029,Food Service Supervisor,100.0,Administrative Assistant,100.0,0.0,Low Confidence
+Candidate_030,Office Manager,55.62,Software Developer,55.42,0.2,Low Confidence
+Candidate_031,Administrative Assistant,87.71,Bookkeeper,87.66,0.05,Low Confidence
+Candidate_032,Food Service Supervisor,100.0,Administrative Assistant,100.0,0.0,Low Confidence
+Candidate_033,Administrative Assistant,93.24,Office Manager,91.62,1.62,High Confidence
+Candidate_034,Office Manager,98.56,Food Service Supervisor,98.39,0.17,Low Confidence
+Candidate_035,Software Developer,90.46,Bookkeeper,89.72,0.74,Moderate Confidence
+Candidate_036,Administrative Assistant,93.24,Office Manager,91.62,1.62,High Confidence
+Candidate_037,Software Developer,78.59,Secondary School Teacher,76.97,1.62,High Confidence
+Candidate_038,Software Developer,69.05,Information Technology (IT) Analyst,66.4,2.65,High Confidence
+Candidate_039,Food Service Supervisor,100.0,Administrative Assistant,100.0,0.0,Low Confidence
+Candidate_040,Software Developer,58.55,Secondary School Teacher,55.87,2.68,High Confidence
+Candidate_041,Office Manager,74.62,Bookkeeper,74.05,0.57,Low Confidence
+Candidate_042,Software Developer,58.55,Secondary School Teacher,55.87,2.68,High Confidence
+Candidate_043,Software Developer,79.96,Licensed Practical Nurse (L.P.N.),79.21,0.75,Moderate Confidence
+Candidate_044,Software Developer,78.59,Secondary School Teacher,76.97,1.62,High Confidence
+Candidate_045,Delivery Driver,83.81,Administrative Assistant,83.24,0.57,Low Confidence
+Candidate_046,Software Developer,63.86,Bookkeeper,63.77,0.08,Low Confidence
+Candidate_047,Office Manager,98.56,Food Service Supervisor,98.39,0.17,Low Confidence
+Candidate_048,Software Developer,63.86,Bookkeeper,63.77,0.08,Low Confidence
+Candidate_049,"Driver, Truck",59.3,Administrative Assistant,58.53,0.76,Moderate Confidence
+Candidate_050,Administrative Assistant,93.24,Office Manager,91.62,1.62,High Confidence
+Candidate_051,Administrative Assistant,47.93,Software Developer,47.54,0.38,Low Confidence
+Candidate_052,Software Developer,78.59,Secondary School Teacher,76.97,1.62,High Confidence
+Candidate_053,Bookkeeper,58.07,Software Developer,55.98,2.09,High Confidence
+Candidate_054,Office Manager,98.56,Food Service Supervisor,98.39,0.17,Low Confidence
+Candidate_055,Office Manager,67.69,Office Administrator,66.83,0.86,Moderate Confidence
+Candidate_056,Administrative Assistant,93.24,Office Manager,91.62,1.62,High Confidence
+Candidate_057,Software Developer,90.46,Bookkeeper,89.72,0.74,Moderate Confidence
+Candidate_058,Administrative Assistant,82.64,Inside Sales Representative,79.73,2.9,High Confidence
+Candidate_059,Software Developer,69.05,Information Technology (IT) Analyst,66.4,2.65,High Confidence
+Candidate_060,Software Developer,58.55,Secondary School Teacher,55.87,2.68,High Confidence
+Candidate_061,Food Service Supervisor,100.0,Administrative Assistant,100.0,0.0,Low Confidence
+Candidate_062,Administrative Assistant,93.24,Office Manager,91.62,1.62,High Confidence
+Candidate_063,Administrative Assistant,82.64,Inside Sales Representative,79.73,2.9,High Confidence

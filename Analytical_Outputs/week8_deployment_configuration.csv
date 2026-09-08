@@ -1,0 +1,12 @@
+configuration,value
+Application,Streamlit
+Recommendation Type,Content-based hybrid ranking
+Candidates,63
+Occupations Evaluated,15
+Recommendations Displayed,Top 5 per candidate
+Primary Recommendation,Final hybrid Top-1 occupation
+Prescriptive Layer,Top-1 occupation skill-gap analysis
+Explainability Layer,Top-1-aligned grounded RAG explanation
+RAG Knowledge Base Documents,707
+Deployment Ready Candidates,63
+Human Evaluation Status,Pending genuine human review

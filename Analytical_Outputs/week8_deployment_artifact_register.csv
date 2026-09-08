@@ -1,0 +1,7 @@
+artifact_id,artifact_name,python_object,planned_file,purpose,expected_rows
+DEPLOY_01,Candidate Deployment Master,candidate_deployment_master,week8_candidate_deployment_master.csv,"Primary candidate-level deployment table containing Top-1 recommendation, skill-gap guidance, and aligned RAG explanation.",63
+DEPLOY_02,Streamlit Top-5 Recommendations,streamlit_top5_recommendations,week8_streamlit_top5_recommendations.csv,Provides five ranked career recommendations for each candidate for the Streamlit recommendation interface.,315
+DEPLOY_03,Final Deployment RAG,final_deployment_rag,week8_final_deployment_rag.csv,Stores final Top-1-aligned grounded explanations for all candidates.,63
+DEPLOY_04,Occupation Deployment Summary,occupation_deployment_summary,week8_occupation_deployment_summary.csv,Occupation-level summary for dashboard visualization and final analytical reporting.,4
+DEPLOY_05,Project KPI Summary,project_kpi_summary,week8_project_kpi_summary.csv,Stores final project and deployment KPIs.,16
+DEPLOY_06,Final Project Insights,final_project_insights,week8_final_project_insights.csv,Stores final evidence-based business and research findings with their implications.,10

@@ -1,0 +1,20 @@
+metric,value
+Number of candidates,63
+Number of selected occupations,15
+Total candidate-occupation combinations,945
+Final Top 5 recommendations,315
+Candidates with exactly 5 recommendations,63
+Average final hybrid recommendation score,75.42
+Median final hybrid recommendation score,76.1
+Minimum final hybrid recommendation score,23.26
+Maximum final hybrid recommendation score,100.0
+Number of occupations represented in Top 5,15
+Top 1 recommendations,63
+High Confidence candidates,22
+Moderate Confidence candidates,11
+Low Confidence candidates,30
+Missing values in final recommendations,0
+Duplicate candidate-occupation combinations,0
+Final hybrid model validation,PASSED
+Confidence analysis validation,PASSED
+Week 6 completion status,COMPLETE

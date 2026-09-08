@@ -1,0 +1,316 @@
+candidate_id,selected_occupation,recommendation_score,recommendation_percentage,occupation_rank,cip_program_count,cip_pathway_available,cip_status
+Candidate_001,Software Developer,0.6947300771208227,69.47300771208226,1,20,True,CIP pathway available
+Candidate_001,Information Technology (IT) Analyst,0.6739556847075916,67.39556847075916,2,22,True,CIP pathway available
+Candidate_001,Secondary School Teacher,0.6688963210702341,66.88963210702342,3,92,True,CIP pathway available
+Candidate_001,Bookkeeper,0.6682011331444759,66.8201133144476,4,1,True,CIP pathway available
+Candidate_001,Licensed Practical Nurse (L.P.N.),0.6615295143937191,66.1529514393719,5,2,True,CIP pathway available
+Candidate_002,Office Manager,0.5467625899280575,54.67625899280575,1,13,True,CIP pathway available
+Candidate_002,Office Administrator,0.5382775119617226,53.82775119617226,2,13,True,CIP pathway available
+Candidate_002,Software Developer,0.5382390745501285,53.82390745501285,3,20,True,CIP pathway available
+Candidate_002,Secondary School Teacher,0.5365105908584169,53.65105908584169,4,92,True,CIP pathway available
+Candidate_002,Information Technology (IT) Analyst,0.5286596440247002,52.86596440247002,5,22,True,CIP pathway available
+Candidate_003,Administrative Assistant,0.8991596638655464,89.91596638655463,1,2,True,CIP pathway available
+Candidate_003,Office Manager,0.8920863309352518,89.20863309352518,2,13,True,CIP pathway available
+Candidate_003,Office Administrator,0.8821770334928231,88.2177033492823,3,13,True,CIP pathway available
+Candidate_003,"Driver, Truck",0.8811881188118811,88.11881188118811,4,1,True,CIP pathway available
+Candidate_003,Inside Sales Representative,0.8745668745668745,87.45668745668745,5,0,False,No CIP pathway in crosswalk
+Candidate_004,Software Developer,0.7911311053984575,79.11311053984575,1,20,True,CIP pathway available
+Candidate_004,Secondary School Teacher,0.7770345596432553,77.70345596432553,2,92,True,CIP pathway available
+Candidate_004,Information Technology (IT) Analyst,0.7756629131856156,77.56629131856157,3,22,True,CIP pathway available
+Candidate_004,Bookkeeper,0.7744334277620397,77.44334277620398,4,1,True,CIP pathway available
+Candidate_004,Licensed Practical Nurse (L.P.N.),0.7743530095958127,77.43530095958127,5,2,True,CIP pathway available
+Candidate_005,Software Developer,0.522172236503856,52.217223650385606,1,20,True,CIP pathway available
+Candidate_005,Bookkeeper,0.5180594900849858,51.80594900849857,2,1,True,CIP pathway available
+Candidate_005,Office Manager,0.5179856115107914,51.798561151079134,3,13,True,CIP pathway available
+Candidate_005,Secondary School Teacher,0.5122630992196209,51.226309921962084,4,92,True,CIP pathway available
+Candidate_005,Office Administrator,0.5083732057416268,50.83732057416268,5,13,True,CIP pathway available
+Candidate_006,Software Developer,0.9035989717223649,90.35989717223649,1,20,True,CIP pathway available
+Candidate_006,Information Technology (IT) Analyst,0.898292771521976,89.82927715219759,2,22,True,CIP pathway available
+Candidate_006,Inside Sales Representative,0.896049896049896,89.6049896049896,3,0,False,No CIP pathway in crosswalk
+Candidate_006,Retail Sales Associate,0.896049896049896,89.6049896049896,3,0,False,No CIP pathway in crosswalk
+Candidate_006,Administrative Assistant,0.895126050420168,89.5126050420168,4,2,True,CIP pathway available
+Candidate_007,Administrative Assistant,1.0000000000000002,100.00000000000003,1,2,True,CIP pathway available
+Candidate_007,Food Service Supervisor,1.0000000000000002,100.00000000000003,1,5,True,CIP pathway available
+Candidate_007,Bookkeeper,1.0,100.0,2,1,True,CIP pathway available
+Candidate_007,Continuing Care Assistant,1.0,100.0,2,3,True,CIP pathway available
+Candidate_007,Delivery Driver,1.0,100.0,2,1,True,CIP pathway available
+Candidate_008,Software Developer,0.6866966580976863,68.66966580976863,1,20,True,CIP pathway available
+Candidate_008,Licensed Practical Nurse (L.P.N.),0.6798487932538528,67.98487932538528,2,2,True,CIP pathway available
+Candidate_008,Secondary School Teacher,0.6761426978818283,67.61426978818284,3,92,True,CIP pathway available
+Candidate_008,Restaurant Manager,0.6714503816793893,67.14503816793894,4,10,True,CIP pathway available
+Candidate_008,Information Technology (IT) Analyst,0.6693788594260806,66.93788594260806,5,22,True,CIP pathway available
+Candidate_009,Administrative Assistant,0.2564705882352941,25.647058823529413,1,2,True,CIP pathway available
+Candidate_009,Office Administrator,0.23175837320574166,23.175837320574168,2,13,True,CIP pathway available
+Candidate_009,Delivery Driver,0.2282270606531882,22.82270606531882,3,1,True,CIP pathway available
+Candidate_009,"Driver, Truck",0.2277227722772277,22.77227722772277,4,1,True,CIP pathway available
+Candidate_009,Bookkeeper,0.22556657223796034,22.556657223796034,5,1,True,CIP pathway available
+Candidate_010,Office Manager,0.9712230215827338,97.12230215827337,1,13,True,CIP pathway available
+Candidate_010,Food Service Supervisor,0.9677419354838711,96.77419354838712,2,5,True,CIP pathway available
+Candidate_010,Administrative Assistant,0.9663865546218489,96.63865546218489,3,2,True,CIP pathway available
+Candidate_010,Inside Sales Representative,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_010,Retail Sales Associate,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_011,Office Manager,0.6618705035971223,66.18705035971223,1,13,True,CIP pathway available
+Candidate_011,"Driver, Truck",0.6483168316831682,64.83168316831683,2,1,True,CIP pathway available
+Candidate_011,Office Administrator,0.6447368421052633,64.47368421052633,3,13,True,CIP pathway available
+Candidate_011,Secondary School Teacher,0.6446488294314381,64.4648829431438,4,92,True,CIP pathway available
+Candidate_011,Software Developer,0.6346401028277635,63.46401028277635,5,20,True,CIP pathway available
+Candidate_012,Software Developer,0.6866966580976863,68.66966580976863,1,20,True,CIP pathway available
+Candidate_012,Licensed Practical Nurse (L.P.N.),0.6798487932538528,67.98487932538528,2,2,True,CIP pathway available
+Candidate_012,Secondary School Teacher,0.6761426978818283,67.61426978818284,3,92,True,CIP pathway available
+Candidate_012,Restaurant Manager,0.6714503816793893,67.14503816793894,4,10,True,CIP pathway available
+Candidate_012,Information Technology (IT) Analyst,0.6693788594260806,66.93788594260806,5,22,True,CIP pathway available
+Candidate_013,Software Developer,0.522172236503856,52.217223650385606,1,20,True,CIP pathway available
+Candidate_013,Bookkeeper,0.5180594900849858,51.80594900849857,2,1,True,CIP pathway available
+Candidate_013,Office Manager,0.5179856115107914,51.798561151079134,3,13,True,CIP pathway available
+Candidate_013,Secondary School Teacher,0.5122630992196209,51.226309921962084,4,92,True,CIP pathway available
+Candidate_013,Office Administrator,0.5083732057416268,50.83732057416268,5,13,True,CIP pathway available
+Candidate_014,Software Developer,0.5902956298200515,59.029562982005146,1,20,True,CIP pathway available
+Candidate_014,Secondary School Teacher,0.568004459308807,56.800445930880706,2,92,True,CIP pathway available
+Candidate_014,Information Technology (IT) Analyst,0.5676716309480566,56.76716309480566,3,22,True,CIP pathway available
+Candidate_014,Licensed Practical Nurse (L.P.N.),0.5670252980517592,56.702529805175914,4,2,True,CIP pathway available
+Candidate_014,Bookkeeper,0.5577195467422096,55.77195467422096,5,1,True,CIP pathway available
+Candidate_015,Administrative Assistant,1.0000000000000002,100.00000000000003,1,2,True,CIP pathway available
+Candidate_015,Food Service Supervisor,1.0000000000000002,100.00000000000003,1,5,True,CIP pathway available
+Candidate_015,Bookkeeper,1.0,100.0,2,1,True,CIP pathway available
+Candidate_015,Continuing Care Assistant,1.0,100.0,2,3,True,CIP pathway available
+Candidate_015,Delivery Driver,1.0,100.0,2,1,True,CIP pathway available
+Candidate_016,Software Developer,0.7991645244215939,79.9164524421594,1,20,True,CIP pathway available
+Candidate_016,Licensed Practical Nurse (L.P.N.),0.7926722884559465,79.26722884559464,2,2,True,CIP pathway available
+Candidate_016,Inside Sales Representative,0.7920997920997921,79.20997920997921,3,0,False,No CIP pathway in crosswalk
+Candidate_016,Retail Sales Associate,0.7920997920997921,79.20997920997921,3,0,False,No CIP pathway in crosswalk
+Candidate_016,Information Technology (IT) Analyst,0.7920087177624409,79.20087177624409,4,22,True,CIP pathway available
+Candidate_017,Administrative Assistant,0.8615126050420168,86.15126050420167,1,2,True,CIP pathway available
+Candidate_017,Inside Sales Representative,0.8613998613998614,86.13998613998614,2,0,False,No CIP pathway in crosswalk
+Candidate_017,Retail Sales Associate,0.8613998613998614,86.13998613998614,2,0,False,No CIP pathway in crosswalk
+Candidate_017,Office Administrator,0.8579545454545455,85.79545454545455,3,13,True,CIP pathway available
+Candidate_017,Office Manager,0.856115107913669,85.6115107913669,4,13,True,CIP pathway available
+Candidate_018,Administrative Assistant,1.0000000000000002,100.00000000000003,1,2,True,CIP pathway available
+Candidate_018,Food Service Supervisor,1.0000000000000002,100.00000000000003,1,5,True,CIP pathway available
+Candidate_018,Bookkeeper,1.0,100.0,2,1,True,CIP pathway available
+Candidate_018,Continuing Care Assistant,1.0,100.0,2,3,True,CIP pathway available
+Candidate_018,Delivery Driver,1.0,100.0,2,1,True,CIP pathway available
+Candidate_019,Office Manager,0.7410071942446043,74.10071942446042,1,13,True,CIP pathway available
+Candidate_019,Bookkeeper,0.7347733711048159,73.47733711048159,2,1,True,CIP pathway available
+Candidate_019,"Driver, Truck",0.7275247524752474,72.75247524752474,3,1,True,CIP pathway available
+Candidate_019,Office Administrator,0.7269736842105264,72.69736842105264,4,13,True,CIP pathway available
+Candidate_019,Software Developer,0.7230077120822622,72.30077120822622,5,20,True,CIP pathway available
+Candidate_020,Bookkeeper,0.6285410764872521,62.85410764872521,1,1,True,CIP pathway available
+Candidate_020,Software Developer,0.6266066838046273,62.660668380462724,2,20,True,CIP pathway available
+Candidate_020,Office Manager,0.6258992805755395,62.58992805755395,3,13,True,CIP pathway available
+Candidate_020,Office Administrator,0.6205143540669857,62.05143540669857,4,13,True,CIP pathway available
+Candidate_020,Secondary School Teacher,0.6131549609810479,61.315496098104795,5,92,True,CIP pathway available
+Candidate_021,Bookkeeper,0.6285410764872521,62.85410764872521,1,1,True,CIP pathway available
+Candidate_021,Software Developer,0.6266066838046273,62.660668380462724,2,20,True,CIP pathway available
+Candidate_021,Office Manager,0.6258992805755395,62.58992805755395,3,13,True,CIP pathway available
+Candidate_021,Office Administrator,0.6205143540669857,62.05143540669857,4,13,True,CIP pathway available
+Candidate_021,Secondary School Teacher,0.6131549609810479,61.315496098104795,5,92,True,CIP pathway available
+Candidate_022,Office Manager,0.9712230215827338,97.12230215827337,1,13,True,CIP pathway available
+Candidate_022,Food Service Supervisor,0.9677419354838711,96.77419354838712,2,5,True,CIP pathway available
+Candidate_022,Administrative Assistant,0.9663865546218489,96.63865546218489,3,2,True,CIP pathway available
+Candidate_022,Inside Sales Representative,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_022,Retail Sales Associate,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_023,Office Manager,0.5467625899280575,54.67625899280575,1,13,True,CIP pathway available
+Candidate_023,Office Administrator,0.5382775119617226,53.82775119617226,2,13,True,CIP pathway available
+Candidate_023,Software Developer,0.5382390745501285,53.82390745501285,3,20,True,CIP pathway available
+Candidate_023,Secondary School Teacher,0.5365105908584169,53.65105908584169,4,92,True,CIP pathway available
+Candidate_023,Information Technology (IT) Analyst,0.5286596440247002,52.86596440247002,5,22,True,CIP pathway available
+Candidate_024,Office Manager,0.7410071942446043,74.10071942446042,1,13,True,CIP pathway available
+Candidate_024,Bookkeeper,0.7347733711048159,73.47733711048159,2,1,True,CIP pathway available
+Candidate_024,"Driver, Truck",0.7275247524752474,72.75247524752474,3,1,True,CIP pathway available
+Candidate_024,Office Administrator,0.7269736842105264,72.69736842105264,4,13,True,CIP pathway available
+Candidate_024,Software Developer,0.7230077120822622,72.30077120822622,5,20,True,CIP pathway available
+Candidate_025,Software Developer,0.6947300771208227,69.47300771208226,1,20,True,CIP pathway available
+Candidate_025,Information Technology (IT) Analyst,0.6739556847075916,67.39556847075916,2,22,True,CIP pathway available
+Candidate_025,Secondary School Teacher,0.6688963210702341,66.88963210702342,3,92,True,CIP pathway available
+Candidate_025,Bookkeeper,0.6682011331444759,66.8201133144476,4,1,True,CIP pathway available
+Candidate_025,Licensed Practical Nurse (L.P.N.),0.6615295143937191,66.1529514393719,5,2,True,CIP pathway available
+Candidate_026,Software Developer,0.6866966580976863,68.66966580976863,1,20,True,CIP pathway available
+Candidate_026,Licensed Practical Nurse (L.P.N.),0.6798487932538528,67.98487932538528,2,2,True,CIP pathway available
+Candidate_026,Secondary School Teacher,0.6761426978818283,67.61426978818284,3,92,True,CIP pathway available
+Candidate_026,Restaurant Manager,0.6714503816793893,67.14503816793894,4,10,True,CIP pathway available
+Candidate_026,Information Technology (IT) Analyst,0.6693788594260806,66.93788594260806,5,22,True,CIP pathway available
+Candidate_027,Office Manager,0.5467625899280575,54.67625899280575,1,13,True,CIP pathway available
+Candidate_027,Office Administrator,0.5382775119617226,53.82775119617226,2,13,True,CIP pathway available
+Candidate_027,Software Developer,0.5382390745501285,53.82390745501285,3,20,True,CIP pathway available
+Candidate_027,Secondary School Teacher,0.5365105908584169,53.65105908584169,4,92,True,CIP pathway available
+Candidate_027,Information Technology (IT) Analyst,0.5286596440247002,52.86596440247002,5,22,True,CIP pathway available
+Candidate_028,Office Manager,0.5467625899280575,54.67625899280575,1,13,True,CIP pathway available
+Candidate_028,Office Administrator,0.5382775119617226,53.82775119617226,2,13,True,CIP pathway available
+Candidate_028,Software Developer,0.5382390745501285,53.82390745501285,3,20,True,CIP pathway available
+Candidate_028,Secondary School Teacher,0.5365105908584169,53.65105908584169,4,92,True,CIP pathway available
+Candidate_028,Information Technology (IT) Analyst,0.5286596440247002,52.86596440247002,5,22,True,CIP pathway available
+Candidate_029,Administrative Assistant,1.0000000000000002,100.00000000000003,1,2,True,CIP pathway available
+Candidate_029,Food Service Supervisor,1.0000000000000002,100.00000000000003,1,5,True,CIP pathway available
+Candidate_029,Bookkeeper,1.0,100.0,2,1,True,CIP pathway available
+Candidate_029,Continuing Care Assistant,1.0,100.0,2,3,True,CIP pathway available
+Candidate_029,Delivery Driver,1.0,100.0,2,1,True,CIP pathway available
+Candidate_030,Office Manager,0.5467625899280575,54.67625899280575,1,13,True,CIP pathway available
+Candidate_030,Office Administrator,0.5382775119617226,53.82775119617226,2,13,True,CIP pathway available
+Candidate_030,Software Developer,0.5382390745501285,53.82390745501285,3,20,True,CIP pathway available
+Candidate_030,Secondary School Teacher,0.5365105908584169,53.65105908584169,4,92,True,CIP pathway available
+Candidate_030,Information Technology (IT) Analyst,0.5286596440247002,52.86596440247002,5,22,True,CIP pathway available
+Candidate_031,Administrative Assistant,0.8615126050420168,86.15126050420167,1,2,True,CIP pathway available
+Candidate_031,Inside Sales Representative,0.8613998613998614,86.13998613998614,2,0,False,No CIP pathway in crosswalk
+Candidate_031,Retail Sales Associate,0.8613998613998614,86.13998613998614,2,0,False,No CIP pathway in crosswalk
+Candidate_031,Office Administrator,0.8579545454545455,85.79545454545455,3,13,True,CIP pathway available
+Candidate_031,Office Manager,0.856115107913669,85.6115107913669,4,13,True,CIP pathway available
+Candidate_032,Administrative Assistant,1.0000000000000002,100.00000000000003,1,2,True,CIP pathway available
+Candidate_032,Food Service Supervisor,1.0000000000000002,100.00000000000003,1,5,True,CIP pathway available
+Candidate_032,Bookkeeper,1.0,100.0,2,1,True,CIP pathway available
+Candidate_032,Continuing Care Assistant,1.0,100.0,2,3,True,CIP pathway available
+Candidate_032,Delivery Driver,1.0,100.0,2,1,True,CIP pathway available
+Candidate_033,Administrative Assistant,0.8991596638655464,89.91596638655463,1,2,True,CIP pathway available
+Candidate_033,Office Manager,0.8920863309352518,89.20863309352518,2,13,True,CIP pathway available
+Candidate_033,Office Administrator,0.8821770334928231,88.2177033492823,3,13,True,CIP pathway available
+Candidate_033,"Driver, Truck",0.8811881188118811,88.11881188118811,4,1,True,CIP pathway available
+Candidate_033,Inside Sales Representative,0.8745668745668745,87.45668745668745,5,0,False,No CIP pathway in crosswalk
+Candidate_034,Office Manager,0.9712230215827338,97.12230215827337,1,13,True,CIP pathway available
+Candidate_034,Food Service Supervisor,0.9677419354838711,96.77419354838712,2,5,True,CIP pathway available
+Candidate_034,Administrative Assistant,0.9663865546218489,96.63865546218489,3,2,True,CIP pathway available
+Candidate_034,Inside Sales Representative,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_034,Retail Sales Associate,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_035,Software Developer,0.9035989717223649,90.35989717223649,1,20,True,CIP pathway available
+Candidate_035,Information Technology (IT) Analyst,0.898292771521976,89.82927715219759,2,22,True,CIP pathway available
+Candidate_035,Inside Sales Representative,0.896049896049896,89.6049896049896,3,0,False,No CIP pathway in crosswalk
+Candidate_035,Retail Sales Associate,0.896049896049896,89.6049896049896,3,0,False,No CIP pathway in crosswalk
+Candidate_035,Administrative Assistant,0.895126050420168,89.5126050420168,4,2,True,CIP pathway available
+Candidate_036,Administrative Assistant,0.8991596638655464,89.91596638655463,1,2,True,CIP pathway available
+Candidate_036,Office Manager,0.8920863309352518,89.20863309352518,2,13,True,CIP pathway available
+Candidate_036,Office Administrator,0.8821770334928231,88.2177033492823,3,13,True,CIP pathway available
+Candidate_036,"Driver, Truck",0.8811881188118811,88.11881188118811,4,1,True,CIP pathway available
+Candidate_036,Inside Sales Representative,0.8745668745668745,87.45668745668745,5,0,False,No CIP pathway in crosswalk
+Candidate_037,Software Developer,0.7911311053984575,79.11311053984575,1,20,True,CIP pathway available
+Candidate_037,Secondary School Teacher,0.7770345596432553,77.70345596432553,2,92,True,CIP pathway available
+Candidate_037,Information Technology (IT) Analyst,0.7756629131856156,77.56629131856157,3,22,True,CIP pathway available
+Candidate_037,Bookkeeper,0.7744334277620397,77.44334277620398,4,1,True,CIP pathway available
+Candidate_037,Licensed Practical Nurse (L.P.N.),0.7743530095958127,77.43530095958127,5,2,True,CIP pathway available
+Candidate_038,Software Developer,0.6947300771208227,69.47300771208226,1,20,True,CIP pathway available
+Candidate_038,Information Technology (IT) Analyst,0.6739556847075916,67.39556847075916,2,22,True,CIP pathway available
+Candidate_038,Secondary School Teacher,0.6688963210702341,66.88963210702342,3,92,True,CIP pathway available
+Candidate_038,Bookkeeper,0.6682011331444759,66.8201133144476,4,1,True,CIP pathway available
+Candidate_038,Licensed Practical Nurse (L.P.N.),0.6615295143937191,66.1529514393719,5,2,True,CIP pathway available
+Candidate_039,Administrative Assistant,1.0000000000000002,100.00000000000003,1,2,True,CIP pathway available
+Candidate_039,Food Service Supervisor,1.0000000000000002,100.00000000000003,1,5,True,CIP pathway available
+Candidate_039,Bookkeeper,1.0,100.0,2,1,True,CIP pathway available
+Candidate_039,Continuing Care Assistant,1.0,100.0,2,3,True,CIP pathway available
+Candidate_039,Delivery Driver,1.0,100.0,2,1,True,CIP pathway available
+Candidate_040,Software Developer,0.5902956298200515,59.029562982005146,1,20,True,CIP pathway available
+Candidate_040,Secondary School Teacher,0.568004459308807,56.800445930880706,2,92,True,CIP pathway available
+Candidate_040,Information Technology (IT) Analyst,0.5676716309480566,56.76716309480566,3,22,True,CIP pathway available
+Candidate_040,Licensed Practical Nurse (L.P.N.),0.5670252980517592,56.702529805175914,4,2,True,CIP pathway available
+Candidate_040,Bookkeeper,0.5577195467422096,55.77195467422096,5,1,True,CIP pathway available
+Candidate_041,Office Manager,0.7410071942446043,74.10071942446042,1,13,True,CIP pathway available
+Candidate_041,Bookkeeper,0.7347733711048159,73.47733711048159,2,1,True,CIP pathway available
+Candidate_041,"Driver, Truck",0.7275247524752474,72.75247524752474,3,1,True,CIP pathway available
+Candidate_041,Office Administrator,0.7269736842105264,72.69736842105264,4,13,True,CIP pathway available
+Candidate_041,Software Developer,0.7230077120822622,72.30077120822622,5,20,True,CIP pathway available
+Candidate_042,Software Developer,0.5902956298200515,59.029562982005146,1,20,True,CIP pathway available
+Candidate_042,Secondary School Teacher,0.568004459308807,56.800445930880706,2,92,True,CIP pathway available
+Candidate_042,Information Technology (IT) Analyst,0.5676716309480566,56.76716309480566,3,22,True,CIP pathway available
+Candidate_042,Licensed Practical Nurse (L.P.N.),0.5670252980517592,56.702529805175914,4,2,True,CIP pathway available
+Candidate_042,Bookkeeper,0.5577195467422096,55.77195467422096,5,1,True,CIP pathway available
+Candidate_043,Software Developer,0.7991645244215939,79.9164524421594,1,20,True,CIP pathway available
+Candidate_043,Licensed Practical Nurse (L.P.N.),0.7926722884559465,79.26722884559464,2,2,True,CIP pathway available
+Candidate_043,Inside Sales Representative,0.7920997920997921,79.20997920997921,3,0,False,No CIP pathway in crosswalk
+Candidate_043,Retail Sales Associate,0.7920997920997921,79.20997920997921,3,0,False,No CIP pathway in crosswalk
+Candidate_043,Information Technology (IT) Analyst,0.7920087177624409,79.20087177624409,4,22,True,CIP pathway available
+Candidate_044,Software Developer,0.7911311053984575,79.11311053984575,1,20,True,CIP pathway available
+Candidate_044,Secondary School Teacher,0.7770345596432553,77.70345596432553,2,92,True,CIP pathway available
+Candidate_044,Information Technology (IT) Analyst,0.7756629131856156,77.56629131856157,3,22,True,CIP pathway available
+Candidate_044,Bookkeeper,0.7744334277620397,77.44334277620398,4,1,True,CIP pathway available
+Candidate_044,Licensed Practical Nurse (L.P.N.),0.7743530095958127,77.43530095958127,5,2,True,CIP pathway available
+Candidate_045,Administrative Assistant,0.7983193277310925,79.83193277310924,1,2,True,CIP pathway available
+Candidate_045,Delivery Driver,0.7962674961119752,79.62674961119752,2,1,True,CIP pathway available
+Candidate_045,Bookkeeper,0.7921388101983002,79.21388101983003,3,1,True,CIP pathway available
+Candidate_045,"Driver, Truck",0.7821782178217821,78.2178217821782,4,1,True,CIP pathway available
+Candidate_045,Inside Sales Representative,0.7706167706167706,77.06167706167706,5,0,False,No CIP pathway in crosswalk
+Candidate_046,Bookkeeper,0.6285410764872521,62.85410764872521,1,1,True,CIP pathway available
+Candidate_046,Software Developer,0.6266066838046273,62.660668380462724,2,20,True,CIP pathway available
+Candidate_046,Office Manager,0.6258992805755395,62.58992805755395,3,13,True,CIP pathway available
+Candidate_046,Office Administrator,0.6205143540669857,62.05143540669857,4,13,True,CIP pathway available
+Candidate_046,Secondary School Teacher,0.6131549609810479,61.315496098104795,5,92,True,CIP pathway available
+Candidate_047,Office Manager,0.9712230215827338,97.12230215827337,1,13,True,CIP pathway available
+Candidate_047,Food Service Supervisor,0.9677419354838711,96.77419354838712,2,5,True,CIP pathway available
+Candidate_047,Administrative Assistant,0.9663865546218489,96.63865546218489,3,2,True,CIP pathway available
+Candidate_047,Inside Sales Representative,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_047,Retail Sales Associate,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_048,Bookkeeper,0.6285410764872521,62.85410764872521,1,1,True,CIP pathway available
+Candidate_048,Software Developer,0.6266066838046273,62.660668380462724,2,20,True,CIP pathway available
+Candidate_048,Office Manager,0.6258992805755395,62.58992805755395,3,13,True,CIP pathway available
+Candidate_048,Office Administrator,0.6205143540669857,62.05143540669857,4,13,True,CIP pathway available
+Candidate_048,Secondary School Teacher,0.6131549609810479,61.315496098104795,5,92,True,CIP pathway available
+Candidate_049,"Driver, Truck",0.5691089108910891,56.91089108910891,1,1,True,CIP pathway available
+Candidate_049,Administrative Assistant,0.5589915966386555,55.89915966386555,2,2,True,CIP pathway available
+Candidate_049,Office Manager,0.5576978417266187,55.76978417266187,3,13,True,CIP pathway available
+Candidate_049,Software Developer,0.5504498714652957,55.044987146529564,4,20,True,CIP pathway available
+Candidate_049,Delivery Driver,0.5486003110419906,54.86003110419906,5,1,True,CIP pathway available
+Candidate_050,Administrative Assistant,0.8991596638655464,89.91596638655463,1,2,True,CIP pathway available
+Candidate_050,Office Manager,0.8920863309352518,89.20863309352518,2,13,True,CIP pathway available
+Candidate_050,Office Administrator,0.8821770334928231,88.2177033492823,3,13,True,CIP pathway available
+Candidate_050,"Driver, Truck",0.8811881188118811,88.11881188118811,4,1,True,CIP pathway available
+Candidate_050,Inside Sales Representative,0.8745668745668745,87.45668745668745,5,0,False,No CIP pathway in crosswalk
+Candidate_051,Administrative Assistant,0.4541176470588235,45.41176470588235,1,2,True,CIP pathway available
+Candidate_051,Software Developer,0.4540488431876607,45.40488431876607,2,20,True,CIP pathway available
+Candidate_051,"Driver, Truck",0.4455445544554455,44.55445544554455,3,1,True,CIP pathway available
+Candidate_051,Office Manager,0.4425899280575539,44.25899280575539,4,13,True,CIP pathway available
+Candidate_051,Office Administrator,0.4410885167464116,44.10885167464116,5,13,True,CIP pathway available
+Candidate_052,Software Developer,0.7911311053984575,79.11311053984575,1,20,True,CIP pathway available
+Candidate_052,Secondary School Teacher,0.7770345596432553,77.70345596432553,2,92,True,CIP pathway available
+Candidate_052,Information Technology (IT) Analyst,0.7756629131856156,77.56629131856157,3,22,True,CIP pathway available
+Candidate_052,Bookkeeper,0.7744334277620397,77.44334277620398,4,1,True,CIP pathway available
+Candidate_052,Licensed Practical Nurse (L.P.N.),0.7743530095958127,77.43530095958127,5,2,True,CIP pathway available
+Candidate_053,Bookkeeper,0.5577195467422096,55.77195467422096,1,1,True,CIP pathway available
+Candidate_053,Software Developer,0.5424164524421594,54.24164524421594,2,20,True,CIP pathway available
+Candidate_053,"Driver, Truck",0.5247524752475247,52.47524752475247,3,1,True,CIP pathway available
+Candidate_053,Office Administrator,0.5233253588516747,52.332535885167474,4,13,True,CIP pathway available
+Candidate_053,Office Manager,0.5217266187050359,52.17266187050359,5,13,True,CIP pathway available
+Candidate_054,Office Manager,0.9712230215827338,97.12230215827337,1,13,True,CIP pathway available
+Candidate_054,Food Service Supervisor,0.9677419354838711,96.77419354838712,2,5,True,CIP pathway available
+Candidate_054,Administrative Assistant,0.9663865546218489,96.63865546218489,3,2,True,CIP pathway available
+Candidate_054,Inside Sales Representative,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_054,Retail Sales Associate,0.9653499653499653,96.53499653499654,4,0,False,No CIP pathway in crosswalk
+Candidate_055,Office Manager,0.6618705035971223,66.18705035971223,1,13,True,CIP pathway available
+Candidate_055,"Driver, Truck",0.6483168316831682,64.83168316831683,2,1,True,CIP pathway available
+Candidate_055,Office Administrator,0.6447368421052633,64.47368421052633,3,13,True,CIP pathway available
+Candidate_055,Secondary School Teacher,0.6446488294314381,64.4648829431438,4,92,True,CIP pathway available
+Candidate_055,Software Developer,0.6346401028277635,63.46401028277635,5,20,True,CIP pathway available
+Candidate_056,Administrative Assistant,0.8991596638655464,89.91596638655463,1,2,True,CIP pathway available
+Candidate_056,Office Manager,0.8920863309352518,89.20863309352518,2,13,True,CIP pathway available
+Candidate_056,Office Administrator,0.8821770334928231,88.2177033492823,3,13,True,CIP pathway available
+Candidate_056,"Driver, Truck",0.8811881188118811,88.11881188118811,4,1,True,CIP pathway available
+Candidate_056,Inside Sales Representative,0.8745668745668745,87.45668745668745,5,0,False,No CIP pathway in crosswalk
+Candidate_057,Software Developer,0.9035989717223649,90.35989717223649,1,20,True,CIP pathway available
+Candidate_057,Information Technology (IT) Analyst,0.898292771521976,89.82927715219759,2,22,True,CIP pathway available
+Candidate_057,Inside Sales Representative,0.896049896049896,89.6049896049896,3,0,False,No CIP pathway in crosswalk
+Candidate_057,Retail Sales Associate,0.896049896049896,89.6049896049896,3,0,False,No CIP pathway in crosswalk
+Candidate_057,Administrative Assistant,0.895126050420168,89.5126050420168,4,2,True,CIP pathway available
+Candidate_058,Administrative Assistant,0.7942857142857143,79.42857142857143,1,2,True,CIP pathway available
+Candidate_058,Office Manager,0.776978417266187,77.6978417266187,2,13,True,CIP pathway available
+Candidate_058,Office Administrator,0.7757177033492824,77.57177033492823,3,13,True,CIP pathway available
+Candidate_058,Inside Sales Representative,0.7706167706167706,77.06167706167706,4,0,False,No CIP pathway in crosswalk
+Candidate_058,Retail Sales Associate,0.7706167706167706,77.06167706167706,4,0,False,No CIP pathway in crosswalk
+Candidate_059,Software Developer,0.6947300771208227,69.47300771208226,1,20,True,CIP pathway available
+Candidate_059,Information Technology (IT) Analyst,0.6739556847075916,67.39556847075916,2,22,True,CIP pathway available
+Candidate_059,Secondary School Teacher,0.6688963210702341,66.88963210702342,3,92,True,CIP pathway available
+Candidate_059,Bookkeeper,0.6682011331444759,66.8201133144476,4,1,True,CIP pathway available
+Candidate_059,Licensed Practical Nurse (L.P.N.),0.6615295143937191,66.1529514393719,5,2,True,CIP pathway available
+Candidate_060,Software Developer,0.5902956298200515,59.029562982005146,1,20,True,CIP pathway available
+Candidate_060,Secondary School Teacher,0.568004459308807,56.800445930880706,2,92,True,CIP pathway available
+Candidate_060,Information Technology (IT) Analyst,0.5676716309480566,56.76716309480566,3,22,True,CIP pathway available
+Candidate_060,Licensed Practical Nurse (L.P.N.),0.5670252980517592,56.702529805175914,4,2,True,CIP pathway available
+Candidate_060,Bookkeeper,0.5577195467422096,55.77195467422096,5,1,True,CIP pathway available
+Candidate_061,Administrative Assistant,1.0000000000000002,100.00000000000003,1,2,True,CIP pathway available
+Candidate_061,Food Service Supervisor,1.0000000000000002,100.00000000000003,1,5,True,CIP pathway available
+Candidate_061,Bookkeeper,1.0,100.0,2,1,True,CIP pathway available
+Candidate_061,Continuing Care Assistant,1.0,100.0,2,3,True,CIP pathway available
+Candidate_061,Delivery Driver,1.0,100.0,2,1,True,CIP pathway available
+Candidate_062,Administrative Assistant,0.8991596638655464,89.91596638655463,1,2,True,CIP pathway available
+Candidate_062,Office Manager,0.8920863309352518,89.20863309352518,2,13,True,CIP pathway available
+Candidate_062,Office Administrator,0.8821770334928231,88.2177033492823,3,13,True,CIP pathway available
+Candidate_062,"Driver, Truck",0.8811881188118811,88.11881188118811,4,1,True,CIP pathway available
+Candidate_062,Inside Sales Representative,0.8745668745668745,87.45668745668745,5,0,False,No CIP pathway in crosswalk
+Candidate_063,Administrative Assistant,0.7942857142857143,79.42857142857143,1,2,True,CIP pathway available
+Candidate_063,Office Manager,0.776978417266187,77.6978417266187,2,13,True,CIP pathway available
+Candidate_063,Office Administrator,0.7757177033492824,77.57177033492823,3,13,True,CIP pathway available
+Candidate_063,Inside Sales Representative,0.7706167706167706,77.06167706167706,4,0,False,No CIP pathway in crosswalk
+Candidate_063,Retail Sales Associate,0.7706167706167706,77.06167706167706,4,0,False,No CIP pathway in crosswalk

@@ -1,0 +1,64 @@
+candidate_id,baseline_occupation,baseline_percentage,hybrid_occupation,hybrid_percentage,recommendation_changed
+Candidate_001,Software Developer,69.47300771208226,Software Developer,84.58,False
+Candidate_002,Office Manager,54.67625899280575,Software Developer,78.25,True
+Candidate_003,Administrative Assistant,89.91596638655463,Administrative Assistant,74.33,False
+Candidate_004,Software Developer,79.11311053984575,Software Developer,84.58,False
+Candidate_005,Software Developer,52.217223650385606,Software Developer,84.58,False
+Candidate_006,Software Developer,90.35989717223649,Software Developer,84.58,False
+Candidate_007,Administrative Assistant,100.00000000000004,Food Service Supervisor,74.31,True
+Candidate_008,Software Developer,68.66966580976863,Software Developer,84.58,False
+Candidate_009,Administrative Assistant,25.647058823529413,Administrative Assistant,74.18,False
+Candidate_010,Office Manager,97.12230215827336,Food Service Supervisor,72.11,True
+Candidate_011,Office Manager,66.18705035971223,Office Manager,71.74,False
+Candidate_012,Software Developer,68.66966580976863,Software Developer,84.58,False
+Candidate_013,Software Developer,52.217223650385606,Software Developer,84.58,False
+Candidate_014,Software Developer,59.029562982005146,Software Developer,84.58,False
+Candidate_015,Administrative Assistant,100.00000000000004,Food Service Supervisor,75.75,True
+Candidate_016,Software Developer,79.9164524421594,Software Developer,84.58,False
+Candidate_017,Administrative Assistant,86.15126050420167,Administrative Assistant,70.25,False
+Candidate_018,Administrative Assistant,100.00000000000004,Food Service Supervisor,78.54,True
+Candidate_019,Office Manager,74.10071942446042,Office Manager,72.11,False
+Candidate_020,Bookkeeper,62.85410764872521,Software Developer,83.13,True
+Candidate_021,Bookkeeper,62.85410764872521,Software Developer,83.13,True
+Candidate_022,Office Manager,97.12230215827336,Food Service Supervisor,72.81,True
+Candidate_023,Office Manager,54.67625899280575,Software Developer,78.25,True
+Candidate_024,Office Manager,74.10071942446042,Software Developer,70.96,True
+Candidate_025,Software Developer,69.47300771208226,Software Developer,84.58,False
+Candidate_026,Software Developer,68.66966580976863,Software Developer,84.58,False
+Candidate_027,Office Manager,54.67625899280575,Software Developer,78.25,True
+Candidate_028,Office Manager,54.67625899280575,Software Developer,78.25,True
+Candidate_029,Administrative Assistant,100.00000000000004,Administrative Assistant,70.73,False
+Candidate_030,Office Manager,54.67625899280575,Software Developer,78.25,True
+Candidate_031,Administrative Assistant,86.15126050420167,Administrative Assistant,73.37,False
+Candidate_032,Administrative Assistant,100.00000000000004,Food Service Supervisor,78.7,True
+Candidate_033,Administrative Assistant,89.91596638655463,Administrative Assistant,72.91,False
+Candidate_034,Office Manager,97.12230215827336,Food Service Supervisor,72.27,True
+Candidate_035,Software Developer,90.35989717223649,Software Developer,84.58,False
+Candidate_036,Administrative Assistant,89.91596638655463,Administrative Assistant,74.86,False
+Candidate_037,Software Developer,79.11311053984575,Software Developer,84.58,False
+Candidate_038,Software Developer,69.47300771208226,Software Developer,84.58,False
+Candidate_039,Administrative Assistant,100.00000000000004,Food Service Supervisor,76.65,True
+Candidate_040,Software Developer,59.029562982005146,Software Developer,84.58,False
+Candidate_041,Office Manager,74.10071942446042,Office Manager,74.28,False
+Candidate_042,Software Developer,59.029562982005146,Software Developer,84.58,False
+Candidate_043,Software Developer,79.9164524421594,Software Developer,84.58,False
+Candidate_044,Software Developer,79.11311053984575,Software Developer,84.58,False
+Candidate_045,Administrative Assistant,79.83193277310924,Administrative Assistant,75.72,False
+Candidate_046,Bookkeeper,62.85410764872521,Software Developer,83.13,True
+Candidate_047,Office Manager,97.12230215827336,Food Service Supervisor,73.01,True
+Candidate_048,Bookkeeper,62.85410764872521,Software Developer,83.13,True
+Candidate_049,"Driver, Truck",56.91089108910891,Software Developer,70.2,True
+Candidate_050,Administrative Assistant,89.91596638655463,Administrative Assistant,70.47,False
+Candidate_051,Administrative Assistant,45.41176470588235,Software Developer,84.54,True
+Candidate_052,Software Developer,79.11311053984575,Software Developer,84.58,False
+Candidate_053,Bookkeeper,55.77195467422096,Software Developer,76.09,True
+Candidate_054,Office Manager,97.12230215827336,Food Service Supervisor,72.06,True
+Candidate_055,Office Manager,66.18705035971223,Office Manager,67.46,False
+Candidate_056,Administrative Assistant,89.91596638655463,Administrative Assistant,68.37,False
+Candidate_057,Software Developer,90.35989717223649,Software Developer,84.58,False
+Candidate_058,Administrative Assistant,79.42857142857143,Administrative Assistant,68.54,False
+Candidate_059,Software Developer,69.47300771208226,Software Developer,84.58,False
+Candidate_060,Software Developer,59.029562982005146,Software Developer,84.58,False
+Candidate_061,Administrative Assistant,100.00000000000004,Food Service Supervisor,71.76,True
+Candidate_062,Administrative Assistant,89.91596638655463,Administrative Assistant,71.29,False
+Candidate_063,Administrative Assistant,79.42857142857143,Administrative Assistant,70.56,False

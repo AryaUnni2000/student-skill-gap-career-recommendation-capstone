@@ -1,0 +1,11 @@
+metric,value
+Expected candidates,63
+Actual candidates,63
+Expected Top 5 recommendations,315
+Actual Top 5 recommendations,315
+Candidates with exactly 5 recommendations,63
+Candidates without exactly 5 recommendations,0
+Missing values,0
+Duplicate candidate-occupation combinations,0
+Invalid hybrid scores,0
+Invalid recommendation ranks,0

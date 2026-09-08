@@ -1,0 +1,12 @@
+requirement,implementation,status
+1. Prescriptive skill-gap analysis,Candidate vs occupation O*NET skills; existing/missing skills; importance; level; demand; education integration.,COMPLETE
+2. Skill-priority model,O*NET importance/level gap priority plus Canadian labour-demand adjustment.,COMPLETE
+3. Career-action recommendations,"Priority missing skills, demand level, CIP education pathway status, and candidate career actions.",COMPLETE
+4. RAG retrieval,"707 grounded documents from O*NET occupations, skills, tasks, Job Bank demand, CIP, and integrated profiles; MiniLM embeddings and FAISS retrieval.",COMPLETE
+5. Grounded RAG explanations,"63 candidate explanations with recommendation evidence, exact skill-gap evidence, tasks, demand, education, and source document IDs.",COMPLETE
+6. Skill-extraction evaluation,200-row human ground-truth matrix and Precision/Recall/F1/FP/FN evaluation function.,FRAMEWORK COMPLETE — HUMAN REVIEW PENDING
+7. Recommendation ranking evaluation,"300-row full-ranking ground-truth matrix with Top-1/3/5, Precision@K, Recall@K, MRR, and NDCG evaluation function.",FRAMEWORK COMPLETE — HUMAN REVIEW PENDING
+8. Skill-gap evaluation,"200-row human gap-review matrix with Precision, Recall, F1, agreement, severity, and expert-rating evaluation.",FRAMEWORK COMPLETE — HUMAN REVIEW PENDING
+9. RAG evaluation,"20-candidate human review for relevance, correctness, groundedness, citation correctness, completeness, clarity, usefulness, and unsupported claims.",FRAMEWORK COMPLETE — HUMAN REVIEW PENDING
+10. Dataset contribution / ablation,"O*NET only, O*NET + Job Bank, O*NET + CIP, and all-dataset configurations with ranking-change and Top-K overlap analysis.",COMPLETE
+11. Error analysis and limitations,Human-grounded FP/FN/ranking/RAG error-analysis framework plus 14 documented project limitations.,FRAMEWORK COMPLETE — HUMAN REVIEW PENDING

@@ -1,0 +1,17 @@
+metric,value
+Total candidates,63
+High Confidence candidates,22
+Moderate Confidence candidates,11
+Low Confidence candidates,30
+High Confidence percentage,34.92
+Moderate Confidence percentage,17.46
+Low Confidence percentage,47.62
+Average Top 1 score,76.66
+Average Top 2 score,75.64
+Average score gap,1.02
+Median score gap,0.74
+Minimum score gap,0.0
+Maximum score gap,3.52
+Missing values,0
+Duplicate candidate IDs,0
+Confidence analysis validation status,PASSED

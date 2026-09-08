@@ -1,0 +1,22 @@
+deliverable,filename,exists,file_size_bytes,status
+Missing Skill Priorities,week7_missing_skill_priorities.csv,True,474663,PASS
+Candidate Prescriptive Recommendations,week7_candidate_prescriptive_recommendations.csv,True,759048,PASS
+Top-1 Prescriptive Skill Gaps,week7_top1_prescriptive_skill_gaps.csv,True,60603,PASS
+Final Prescriptive Recommendations,week7_final_prescriptive_recommendations.csv,True,15387,PASS
+Prescriptive Validation Summary,week7_prescriptive_validation_summary.csv,True,382,PASS
+RAG Knowledge Base,week7_rag_knowledge_base.csv,True,219274,PASS
+RAG Embeddings,week7_rag_embeddings.npy,True,1086080,PASS
+FAISS Index,week7_rag_faiss.index,True,1085997,PASS
+Candidate RAG Explanations,week7_candidate_rag_explanations.csv,True,202789,PASS
+RAG Validation Summary,week7_rag_validation_summary.csv,True,425,PASS
+Skill Extraction Positive Review,week7_skill_extraction_human_review.csv,True,343404,PASS
+Skill Extraction Ground Truth,week7_skill_extraction_ground_truth_review.csv,True,486874,PASS
+Recommendation Top-5 Review,week7_recommendation_ranking_human_review.csv,True,9859,PASS
+Recommendation Ranking Ground Truth,week7_recommendation_ranking_ground_truth_review.csv,True,28761,PASS
+Skill Gap Ground Truth,week7_skill_gap_ground_truth_review.csv,True,22586,PASS
+RAG Human Review,week7_rag_human_review.csv,True,64676,PASS
+Ablation Candidate-Occupation Scores,week7_ablation_candidate_occupation_scores.csv,True,303342,PASS
+Ablation Contribution Summary,week7_ablation_contribution_summary.csv,True,530,PASS
+Ablation Top-1 Comparison,week7_ablation_top1_comparison.csv,True,7466,PASS
+Ablation Top-1 Distribution,week7_ablation_top1_distribution.csv,True,749,PASS
+Project Limitations,week7_project_limitations.csv,True,4955,PASS

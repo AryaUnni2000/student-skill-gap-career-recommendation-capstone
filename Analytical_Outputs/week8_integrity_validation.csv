@@ -1,0 +1,13 @@
+validation_check,expected,actual,status
+Deployment master has 63 candidates,63,63,PASS
+Final hybrid has 945 candidate-occupation pairs,945,945,PASS
+Final hybrid evaluates 15 occupations,15,15,PASS
+Top-5 table has 315 rows,315,315,PASS
+Every candidate has exactly 5 recommendations,True,True,PASS
+Deployment Top-1 matches Streamlit rank 1,True,True,PASS
+All candidates have RAG explanations,True,True,PASS
+All candidates are deployment ready,True,True,PASS
+All candidates have skill-gap status,True,True,PASS
+RAG knowledge base has 707 documents,707,707,PASS
+RAG explanation sources reconcile to 63 candidates,63,63,PASS
+Human evaluation status is correctly documented,Pending genuine human review,Pending genuine human review,PASS

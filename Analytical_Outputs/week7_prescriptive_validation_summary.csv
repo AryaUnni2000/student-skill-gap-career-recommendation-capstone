@@ -1,0 +1,10 @@
+validation_metric,result,status
+Missing required columns,0,PASS
+Duplicate candidate rows,0,PASS
+Candidates not found in Week 6 Top-1,0,PASS
+Recommended occupation mismatches,0,PASS
+Average priority outside 0-100,0,PASS
+Maximum priority outside 0-100,0,PASS
+Canadian demand outside 0-100,0,PASS
+Missing critical values,0,PASS
+Empty prioritized skill recommendations,0,PASS

@@ -1,0 +1,946 @@
+candidate_id,selected_occupation,keyword_match_count,keyword_similarity_score,keyword_normalized_score,keyword_percentage,keyword_rank
+Candidate_001,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_001,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_001,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_001,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_001,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_001,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_001,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_001,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_001,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_001,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_001,Office Manager,0,0.0,1.0,100.0,11
+Candidate_001,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_001,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_001,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_001,Software Developer,0,0.0,1.0,100.0,15
+Candidate_002,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_002,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_002,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_002,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_002,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_002,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_002,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_002,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_002,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_002,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_002,Office Manager,0,0.0,1.0,100.0,11
+Candidate_002,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_002,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_002,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_002,Software Developer,0,0.0,1.0,100.0,15
+Candidate_003,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_003,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_003,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_003,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_003,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_003,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_003,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_003,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_003,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_003,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_003,Office Manager,0,0.0,1.0,100.0,11
+Candidate_003,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_003,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_003,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_003,Software Developer,0,0.0,1.0,100.0,15
+Candidate_004,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_004,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_004,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_004,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_004,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_004,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_004,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_004,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_004,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_004,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_004,Office Manager,0,0.0,1.0,100.0,11
+Candidate_004,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_004,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_004,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_004,Software Developer,0,0.0,1.0,100.0,15
+Candidate_005,Administrative Assistant,1,0.058823529411764705,1.0,100.0,1
+Candidate_005,Bookkeeper,1,0.058823529411764705,1.0,100.0,2
+Candidate_005,Continuing Care Assistant,1,0.058823529411764705,1.0,100.0,3
+Candidate_005,Delivery Driver,1,0.058823529411764705,1.0,100.0,4
+Candidate_005,"Driver, Truck",1,0.058823529411764705,1.0,100.0,5
+Candidate_005,Food Service Supervisor,1,0.058823529411764705,1.0,100.0,6
+Candidate_005,Information Technology (IT) Analyst,1,0.058823529411764705,1.0,100.0,7
+Candidate_005,Inside Sales Representative,1,0.058823529411764705,1.0,100.0,8
+Candidate_005,Licensed Practical Nurse (L.P.N.),1,0.058823529411764705,1.0,100.0,9
+Candidate_005,Office Administrator,1,0.058823529411764705,1.0,100.0,10
+Candidate_005,Office Manager,1,0.058823529411764705,1.0,100.0,11
+Candidate_005,Restaurant Manager,1,0.058823529411764705,1.0,100.0,12
+Candidate_005,Retail Sales Associate,1,0.058823529411764705,1.0,100.0,13
+Candidate_005,Secondary School Teacher,1,0.058823529411764705,1.0,100.0,14
+Candidate_005,Software Developer,1,0.058823529411764705,1.0,100.0,15
+Candidate_006,Administrative Assistant,1,0.058823529411764705,1.0,100.0,1
+Candidate_006,Bookkeeper,1,0.058823529411764705,1.0,100.0,2
+Candidate_006,Continuing Care Assistant,1,0.058823529411764705,1.0,100.0,3
+Candidate_006,Delivery Driver,1,0.058823529411764705,1.0,100.0,4
+Candidate_006,"Driver, Truck",1,0.058823529411764705,1.0,100.0,5
+Candidate_006,Food Service Supervisor,1,0.058823529411764705,1.0,100.0,6
+Candidate_006,Information Technology (IT) Analyst,1,0.058823529411764705,1.0,100.0,7
+Candidate_006,Inside Sales Representative,1,0.058823529411764705,1.0,100.0,8
+Candidate_006,Licensed Practical Nurse (L.P.N.),1,0.058823529411764705,1.0,100.0,9
+Candidate_006,Office Administrator,1,0.058823529411764705,1.0,100.0,10
+Candidate_006,Office Manager,1,0.058823529411764705,1.0,100.0,11
+Candidate_006,Restaurant Manager,1,0.058823529411764705,1.0,100.0,12
+Candidate_006,Retail Sales Associate,1,0.058823529411764705,1.0,100.0,13
+Candidate_006,Secondary School Teacher,1,0.058823529411764705,1.0,100.0,14
+Candidate_006,Software Developer,1,0.058823529411764705,1.0,100.0,15
+Candidate_007,Administrative Assistant,1,0.0625,1.0,100.0,1
+Candidate_007,Bookkeeper,1,0.0625,1.0,100.0,2
+Candidate_007,Continuing Care Assistant,1,0.0625,1.0,100.0,3
+Candidate_007,Delivery Driver,1,0.0625,1.0,100.0,4
+Candidate_007,"Driver, Truck",1,0.0625,1.0,100.0,5
+Candidate_007,Food Service Supervisor,1,0.0625,1.0,100.0,6
+Candidate_007,Information Technology (IT) Analyst,1,0.0625,1.0,100.0,7
+Candidate_007,Inside Sales Representative,1,0.0625,1.0,100.0,8
+Candidate_007,Licensed Practical Nurse (L.P.N.),1,0.0625,1.0,100.0,9
+Candidate_007,Office Administrator,1,0.0625,1.0,100.0,10
+Candidate_007,Office Manager,1,0.0625,1.0,100.0,11
+Candidate_007,Restaurant Manager,1,0.0625,1.0,100.0,12
+Candidate_007,Retail Sales Associate,1,0.0625,1.0,100.0,13
+Candidate_007,Secondary School Teacher,1,0.0625,1.0,100.0,14
+Candidate_007,Software Developer,1,0.0625,1.0,100.0,15
+Candidate_008,Administrative Assistant,1,0.07142857142857142,1.0,100.0,1
+Candidate_008,Bookkeeper,1,0.07142857142857142,1.0,100.0,2
+Candidate_008,Continuing Care Assistant,1,0.07142857142857142,1.0,100.0,3
+Candidate_008,Delivery Driver,1,0.07142857142857142,1.0,100.0,4
+Candidate_008,"Driver, Truck",1,0.07142857142857142,1.0,100.0,5
+Candidate_008,Food Service Supervisor,1,0.07142857142857142,1.0,100.0,6
+Candidate_008,Information Technology (IT) Analyst,1,0.07142857142857142,1.0,100.0,7
+Candidate_008,Inside Sales Representative,1,0.07142857142857142,1.0,100.0,8
+Candidate_008,Licensed Practical Nurse (L.P.N.),1,0.07142857142857142,1.0,100.0,9
+Candidate_008,Office Administrator,1,0.07142857142857142,1.0,100.0,10
+Candidate_008,Office Manager,1,0.07142857142857142,1.0,100.0,11
+Candidate_008,Restaurant Manager,1,0.07142857142857142,1.0,100.0,12
+Candidate_008,Retail Sales Associate,1,0.07142857142857142,1.0,100.0,13
+Candidate_008,Secondary School Teacher,1,0.07142857142857142,1.0,100.0,14
+Candidate_008,Software Developer,1,0.07142857142857142,1.0,100.0,15
+Candidate_009,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_009,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_009,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_009,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_009,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_009,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_009,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_009,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_009,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_009,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_009,Office Manager,0,0.0,1.0,100.0,11
+Candidate_009,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_009,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_009,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_009,Software Developer,0,0.0,1.0,100.0,15
+Candidate_010,Administrative Assistant,1,0.02702702702702703,1.0,100.0,1
+Candidate_010,Bookkeeper,1,0.02702702702702703,1.0,100.0,2
+Candidate_010,Continuing Care Assistant,1,0.02702702702702703,1.0,100.0,3
+Candidate_010,Delivery Driver,1,0.02702702702702703,1.0,100.0,4
+Candidate_010,"Driver, Truck",1,0.02702702702702703,1.0,100.0,5
+Candidate_010,Food Service Supervisor,1,0.02702702702702703,1.0,100.0,6
+Candidate_010,Information Technology (IT) Analyst,1,0.02702702702702703,1.0,100.0,7
+Candidate_010,Inside Sales Representative,1,0.02702702702702703,1.0,100.0,8
+Candidate_010,Licensed Practical Nurse (L.P.N.),1,0.02702702702702703,1.0,100.0,9
+Candidate_010,Office Administrator,1,0.02702702702702703,1.0,100.0,10
+Candidate_010,Office Manager,1,0.02702702702702703,1.0,100.0,11
+Candidate_010,Restaurant Manager,1,0.02702702702702703,1.0,100.0,12
+Candidate_010,Retail Sales Associate,1,0.02702702702702703,1.0,100.0,13
+Candidate_010,Secondary School Teacher,1,0.02702702702702703,1.0,100.0,14
+Candidate_010,Software Developer,1,0.02702702702702703,1.0,100.0,15
+Candidate_011,Administrative Assistant,2,0.08,1.0,100.0,1
+Candidate_011,Bookkeeper,2,0.08,1.0,100.0,2
+Candidate_011,Continuing Care Assistant,2,0.08,1.0,100.0,3
+Candidate_011,Delivery Driver,2,0.08,1.0,100.0,4
+Candidate_011,"Driver, Truck",2,0.08,1.0,100.0,5
+Candidate_011,Food Service Supervisor,2,0.08,1.0,100.0,6
+Candidate_011,Information Technology (IT) Analyst,2,0.08,1.0,100.0,7
+Candidate_011,Inside Sales Representative,2,0.08,1.0,100.0,8
+Candidate_011,Licensed Practical Nurse (L.P.N.),2,0.08,1.0,100.0,9
+Candidate_011,Office Administrator,2,0.08,1.0,100.0,10
+Candidate_011,Office Manager,2,0.08,1.0,100.0,11
+Candidate_011,Restaurant Manager,2,0.08,1.0,100.0,12
+Candidate_011,Retail Sales Associate,2,0.08,1.0,100.0,13
+Candidate_011,Secondary School Teacher,2,0.08,1.0,100.0,14
+Candidate_011,Software Developer,2,0.08,1.0,100.0,15
+Candidate_012,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_012,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_012,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_012,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_012,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_012,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_012,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_012,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_012,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_012,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_012,Office Manager,0,0.0,1.0,100.0,11
+Candidate_012,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_012,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_012,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_012,Software Developer,0,0.0,1.0,100.0,15
+Candidate_013,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_013,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_013,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_013,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_013,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_013,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_013,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_013,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_013,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_013,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_013,Office Manager,0,0.0,1.0,100.0,11
+Candidate_013,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_013,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_013,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_013,Software Developer,0,0.0,1.0,100.0,15
+Candidate_014,Administrative Assistant,1,0.16666666666666666,1.0,100.0,1
+Candidate_014,Bookkeeper,1,0.16666666666666666,1.0,100.0,2
+Candidate_014,Continuing Care Assistant,1,0.16666666666666666,1.0,100.0,3
+Candidate_014,Delivery Driver,1,0.16666666666666666,1.0,100.0,4
+Candidate_014,"Driver, Truck",1,0.16666666666666666,1.0,100.0,5
+Candidate_014,Food Service Supervisor,1,0.16666666666666666,1.0,100.0,6
+Candidate_014,Information Technology (IT) Analyst,1,0.16666666666666666,1.0,100.0,7
+Candidate_014,Inside Sales Representative,1,0.16666666666666666,1.0,100.0,8
+Candidate_014,Licensed Practical Nurse (L.P.N.),1,0.16666666666666666,1.0,100.0,9
+Candidate_014,Office Administrator,1,0.16666666666666666,1.0,100.0,10
+Candidate_014,Office Manager,1,0.16666666666666666,1.0,100.0,11
+Candidate_014,Restaurant Manager,1,0.16666666666666666,1.0,100.0,12
+Candidate_014,Retail Sales Associate,1,0.16666666666666666,1.0,100.0,13
+Candidate_014,Secondary School Teacher,1,0.16666666666666666,1.0,100.0,14
+Candidate_014,Software Developer,1,0.16666666666666666,1.0,100.0,15
+Candidate_015,Administrative Assistant,1,0.05263157894736842,1.0,100.0,1
+Candidate_015,Bookkeeper,1,0.05263157894736842,1.0,100.0,2
+Candidate_015,Continuing Care Assistant,1,0.05263157894736842,1.0,100.0,3
+Candidate_015,Delivery Driver,1,0.05263157894736842,1.0,100.0,4
+Candidate_015,"Driver, Truck",1,0.05263157894736842,1.0,100.0,5
+Candidate_015,Food Service Supervisor,1,0.05263157894736842,1.0,100.0,6
+Candidate_015,Information Technology (IT) Analyst,1,0.05263157894736842,1.0,100.0,7
+Candidate_015,Inside Sales Representative,1,0.05263157894736842,1.0,100.0,8
+Candidate_015,Licensed Practical Nurse (L.P.N.),1,0.05263157894736842,1.0,100.0,9
+Candidate_015,Office Administrator,1,0.05263157894736842,1.0,100.0,10
+Candidate_015,Office Manager,1,0.05263157894736842,1.0,100.0,11
+Candidate_015,Restaurant Manager,1,0.05263157894736842,1.0,100.0,12
+Candidate_015,Retail Sales Associate,1,0.05263157894736842,1.0,100.0,13
+Candidate_015,Secondary School Teacher,1,0.05263157894736842,1.0,100.0,14
+Candidate_015,Software Developer,1,0.05263157894736842,1.0,100.0,15
+Candidate_016,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_016,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_016,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_016,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_016,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_016,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_016,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_016,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_016,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_016,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_016,Office Manager,0,0.0,1.0,100.0,11
+Candidate_016,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_016,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_016,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_016,Software Developer,0,0.0,1.0,100.0,15
+Candidate_017,Administrative Assistant,1,0.045454545454545456,1.0,100.0,1
+Candidate_017,Bookkeeper,1,0.045454545454545456,1.0,100.0,2
+Candidate_017,Continuing Care Assistant,1,0.045454545454545456,1.0,100.0,3
+Candidate_017,Delivery Driver,1,0.045454545454545456,1.0,100.0,4
+Candidate_017,"Driver, Truck",1,0.045454545454545456,1.0,100.0,5
+Candidate_017,Food Service Supervisor,1,0.045454545454545456,1.0,100.0,6
+Candidate_017,Information Technology (IT) Analyst,1,0.045454545454545456,1.0,100.0,7
+Candidate_017,Inside Sales Representative,1,0.045454545454545456,1.0,100.0,8
+Candidate_017,Licensed Practical Nurse (L.P.N.),1,0.045454545454545456,1.0,100.0,9
+Candidate_017,Office Administrator,1,0.045454545454545456,1.0,100.0,10
+Candidate_017,Office Manager,1,0.045454545454545456,1.0,100.0,11
+Candidate_017,Restaurant Manager,1,0.045454545454545456,1.0,100.0,12
+Candidate_017,Retail Sales Associate,1,0.045454545454545456,1.0,100.0,13
+Candidate_017,Secondary School Teacher,1,0.045454545454545456,1.0,100.0,14
+Candidate_017,Software Developer,1,0.045454545454545456,1.0,100.0,15
+Candidate_018,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_018,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_018,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_018,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_018,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_018,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_018,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_018,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_018,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_018,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_018,Office Manager,0,0.0,1.0,100.0,11
+Candidate_018,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_018,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_018,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_018,Software Developer,0,0.0,1.0,100.0,15
+Candidate_019,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_019,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_019,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_019,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_019,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_019,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_019,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_019,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_019,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_019,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_019,Office Manager,0,0.0,1.0,100.0,11
+Candidate_019,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_019,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_019,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_019,Software Developer,0,0.0,1.0,100.0,15
+Candidate_020,Administrative Assistant,1,0.03333333333333333,1.0,100.0,1
+Candidate_020,Bookkeeper,1,0.03333333333333333,1.0,100.0,2
+Candidate_020,Continuing Care Assistant,1,0.03333333333333333,1.0,100.0,3
+Candidate_020,Delivery Driver,1,0.03333333333333333,1.0,100.0,4
+Candidate_020,"Driver, Truck",1,0.03333333333333333,1.0,100.0,5
+Candidate_020,Food Service Supervisor,1,0.03333333333333333,1.0,100.0,6
+Candidate_020,Information Technology (IT) Analyst,1,0.03333333333333333,1.0,100.0,7
+Candidate_020,Inside Sales Representative,1,0.03333333333333333,1.0,100.0,8
+Candidate_020,Licensed Practical Nurse (L.P.N.),1,0.03333333333333333,1.0,100.0,9
+Candidate_020,Office Administrator,1,0.03333333333333333,1.0,100.0,10
+Candidate_020,Office Manager,1,0.03333333333333333,1.0,100.0,11
+Candidate_020,Restaurant Manager,1,0.03333333333333333,1.0,100.0,12
+Candidate_020,Retail Sales Associate,1,0.03333333333333333,1.0,100.0,13
+Candidate_020,Secondary School Teacher,1,0.03333333333333333,1.0,100.0,14
+Candidate_020,Software Developer,1,0.03333333333333333,1.0,100.0,15
+Candidate_021,Administrative Assistant,1,0.045454545454545456,1.0,100.0,1
+Candidate_021,Bookkeeper,1,0.045454545454545456,1.0,100.0,2
+Candidate_021,Continuing Care Assistant,1,0.045454545454545456,1.0,100.0,3
+Candidate_021,Delivery Driver,1,0.045454545454545456,1.0,100.0,4
+Candidate_021,"Driver, Truck",1,0.045454545454545456,1.0,100.0,5
+Candidate_021,Food Service Supervisor,1,0.045454545454545456,1.0,100.0,6
+Candidate_021,Information Technology (IT) Analyst,1,0.045454545454545456,1.0,100.0,7
+Candidate_021,Inside Sales Representative,1,0.045454545454545456,1.0,100.0,8
+Candidate_021,Licensed Practical Nurse (L.P.N.),1,0.045454545454545456,1.0,100.0,9
+Candidate_021,Office Administrator,1,0.045454545454545456,1.0,100.0,10
+Candidate_021,Office Manager,1,0.045454545454545456,1.0,100.0,11
+Candidate_021,Restaurant Manager,1,0.045454545454545456,1.0,100.0,12
+Candidate_021,Retail Sales Associate,1,0.045454545454545456,1.0,100.0,13
+Candidate_021,Secondary School Teacher,1,0.045454545454545456,1.0,100.0,14
+Candidate_021,Software Developer,1,0.045454545454545456,1.0,100.0,15
+Candidate_022,Administrative Assistant,1,0.027777777777777776,1.0,100.0,1
+Candidate_022,Bookkeeper,1,0.027777777777777776,1.0,100.0,2
+Candidate_022,Continuing Care Assistant,1,0.027777777777777776,1.0,100.0,3
+Candidate_022,Delivery Driver,1,0.027777777777777776,1.0,100.0,4
+Candidate_022,"Driver, Truck",1,0.027777777777777776,1.0,100.0,5
+Candidate_022,Food Service Supervisor,1,0.027777777777777776,1.0,100.0,6
+Candidate_022,Information Technology (IT) Analyst,1,0.027777777777777776,1.0,100.0,7
+Candidate_022,Inside Sales Representative,1,0.027777777777777776,1.0,100.0,8
+Candidate_022,Licensed Practical Nurse (L.P.N.),1,0.027777777777777776,1.0,100.0,9
+Candidate_022,Office Administrator,1,0.027777777777777776,1.0,100.0,10
+Candidate_022,Office Manager,1,0.027777777777777776,1.0,100.0,11
+Candidate_022,Restaurant Manager,1,0.027777777777777776,1.0,100.0,12
+Candidate_022,Retail Sales Associate,1,0.027777777777777776,1.0,100.0,13
+Candidate_022,Secondary School Teacher,1,0.027777777777777776,1.0,100.0,14
+Candidate_022,Software Developer,1,0.027777777777777776,1.0,100.0,15
+Candidate_023,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_023,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_023,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_023,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_023,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_023,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_023,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_023,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_023,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_023,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_023,Office Manager,0,0.0,1.0,100.0,11
+Candidate_023,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_023,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_023,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_023,Software Developer,0,0.0,1.0,100.0,15
+Candidate_024,Administrative Assistant,1,0.03225806451612903,1.0,100.0,1
+Candidate_024,Bookkeeper,1,0.03225806451612903,1.0,100.0,2
+Candidate_024,Continuing Care Assistant,1,0.03225806451612903,1.0,100.0,3
+Candidate_024,Delivery Driver,1,0.03225806451612903,1.0,100.0,4
+Candidate_024,"Driver, Truck",1,0.03225806451612903,1.0,100.0,5
+Candidate_024,Food Service Supervisor,1,0.03225806451612903,1.0,100.0,6
+Candidate_024,Information Technology (IT) Analyst,1,0.03225806451612903,1.0,100.0,7
+Candidate_024,Inside Sales Representative,1,0.03225806451612903,1.0,100.0,8
+Candidate_024,Licensed Practical Nurse (L.P.N.),1,0.03225806451612903,1.0,100.0,9
+Candidate_024,Office Administrator,1,0.03225806451612903,1.0,100.0,10
+Candidate_024,Office Manager,1,0.03225806451612903,1.0,100.0,11
+Candidate_024,Restaurant Manager,1,0.03225806451612903,1.0,100.0,12
+Candidate_024,Retail Sales Associate,1,0.03225806451612903,1.0,100.0,13
+Candidate_024,Secondary School Teacher,1,0.03225806451612903,1.0,100.0,14
+Candidate_024,Software Developer,1,0.03225806451612903,1.0,100.0,15
+Candidate_025,Administrative Assistant,1,0.07142857142857142,1.0,100.0,1
+Candidate_025,Bookkeeper,1,0.07142857142857142,1.0,100.0,2
+Candidate_025,Continuing Care Assistant,1,0.07142857142857142,1.0,100.0,3
+Candidate_025,Delivery Driver,1,0.07142857142857142,1.0,100.0,4
+Candidate_025,"Driver, Truck",1,0.07142857142857142,1.0,100.0,5
+Candidate_025,Food Service Supervisor,1,0.07142857142857142,1.0,100.0,6
+Candidate_025,Information Technology (IT) Analyst,1,0.07142857142857142,1.0,100.0,7
+Candidate_025,Inside Sales Representative,1,0.07142857142857142,1.0,100.0,8
+Candidate_025,Licensed Practical Nurse (L.P.N.),1,0.07142857142857142,1.0,100.0,9
+Candidate_025,Office Administrator,1,0.07142857142857142,1.0,100.0,10
+Candidate_025,Office Manager,1,0.07142857142857142,1.0,100.0,11
+Candidate_025,Restaurant Manager,1,0.07142857142857142,1.0,100.0,12
+Candidate_025,Retail Sales Associate,1,0.07142857142857142,1.0,100.0,13
+Candidate_025,Secondary School Teacher,1,0.07142857142857142,1.0,100.0,14
+Candidate_025,Software Developer,1,0.07142857142857142,1.0,100.0,15
+Candidate_026,Administrative Assistant,1,0.058823529411764705,1.0,100.0,1
+Candidate_026,Bookkeeper,1,0.058823529411764705,1.0,100.0,2
+Candidate_026,Continuing Care Assistant,1,0.058823529411764705,1.0,100.0,3
+Candidate_026,Delivery Driver,1,0.058823529411764705,1.0,100.0,4
+Candidate_026,"Driver, Truck",1,0.058823529411764705,1.0,100.0,5
+Candidate_026,Food Service Supervisor,1,0.058823529411764705,1.0,100.0,6
+Candidate_026,Information Technology (IT) Analyst,1,0.058823529411764705,1.0,100.0,7
+Candidate_026,Inside Sales Representative,1,0.058823529411764705,1.0,100.0,8
+Candidate_026,Licensed Practical Nurse (L.P.N.),1,0.058823529411764705,1.0,100.0,9
+Candidate_026,Office Administrator,1,0.058823529411764705,1.0,100.0,10
+Candidate_026,Office Manager,1,0.058823529411764705,1.0,100.0,11
+Candidate_026,Restaurant Manager,1,0.058823529411764705,1.0,100.0,12
+Candidate_026,Retail Sales Associate,1,0.058823529411764705,1.0,100.0,13
+Candidate_026,Secondary School Teacher,1,0.058823529411764705,1.0,100.0,14
+Candidate_026,Software Developer,1,0.058823529411764705,1.0,100.0,15
+Candidate_027,Administrative Assistant,1,0.07142857142857142,1.0,100.0,1
+Candidate_027,Bookkeeper,1,0.07142857142857142,1.0,100.0,2
+Candidate_027,Continuing Care Assistant,1,0.07142857142857142,1.0,100.0,3
+Candidate_027,Delivery Driver,1,0.07142857142857142,1.0,100.0,4
+Candidate_027,"Driver, Truck",1,0.07142857142857142,1.0,100.0,5
+Candidate_027,Food Service Supervisor,1,0.07142857142857142,1.0,100.0,6
+Candidate_027,Information Technology (IT) Analyst,1,0.07142857142857142,1.0,100.0,7
+Candidate_027,Inside Sales Representative,1,0.07142857142857142,1.0,100.0,8
+Candidate_027,Licensed Practical Nurse (L.P.N.),1,0.07142857142857142,1.0,100.0,9
+Candidate_027,Office Administrator,1,0.07142857142857142,1.0,100.0,10
+Candidate_027,Office Manager,1,0.07142857142857142,1.0,100.0,11
+Candidate_027,Restaurant Manager,1,0.07142857142857142,1.0,100.0,12
+Candidate_027,Retail Sales Associate,1,0.07142857142857142,1.0,100.0,13
+Candidate_027,Secondary School Teacher,1,0.07142857142857142,1.0,100.0,14
+Candidate_027,Software Developer,1,0.07142857142857142,1.0,100.0,15
+Candidate_028,Administrative Assistant,1,0.1111111111111111,1.0,100.0,1
+Candidate_028,Bookkeeper,1,0.1111111111111111,1.0,100.0,2
+Candidate_028,Continuing Care Assistant,1,0.1111111111111111,1.0,100.0,3
+Candidate_028,Delivery Driver,1,0.1111111111111111,1.0,100.0,4
+Candidate_028,"Driver, Truck",1,0.1111111111111111,1.0,100.0,5
+Candidate_028,Food Service Supervisor,1,0.1111111111111111,1.0,100.0,6
+Candidate_028,Information Technology (IT) Analyst,1,0.1111111111111111,1.0,100.0,7
+Candidate_028,Inside Sales Representative,1,0.1111111111111111,1.0,100.0,8
+Candidate_028,Licensed Practical Nurse (L.P.N.),1,0.1111111111111111,1.0,100.0,9
+Candidate_028,Office Administrator,1,0.1111111111111111,1.0,100.0,10
+Candidate_028,Office Manager,1,0.1111111111111111,1.0,100.0,11
+Candidate_028,Restaurant Manager,1,0.1111111111111111,1.0,100.0,12
+Candidate_028,Retail Sales Associate,1,0.1111111111111111,1.0,100.0,13
+Candidate_028,Secondary School Teacher,1,0.1111111111111111,1.0,100.0,14
+Candidate_028,Software Developer,1,0.1111111111111111,1.0,100.0,15
+Candidate_029,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_029,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_029,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_029,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_029,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_029,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_029,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_029,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_029,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_029,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_029,Office Manager,0,0.0,1.0,100.0,11
+Candidate_029,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_029,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_029,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_029,Software Developer,0,0.0,1.0,100.0,15
+Candidate_030,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_030,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_030,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_030,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_030,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_030,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_030,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_030,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_030,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_030,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_030,Office Manager,0,0.0,1.0,100.0,11
+Candidate_030,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_030,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_030,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_030,Software Developer,0,0.0,1.0,100.0,15
+Candidate_031,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_031,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_031,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_031,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_031,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_031,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_031,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_031,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_031,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_031,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_031,Office Manager,0,0.0,1.0,100.0,11
+Candidate_031,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_031,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_031,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_031,Software Developer,0,0.0,1.0,100.0,15
+Candidate_032,Administrative Assistant,1,0.058823529411764705,1.0,100.0,1
+Candidate_032,Bookkeeper,1,0.058823529411764705,1.0,100.0,2
+Candidate_032,Continuing Care Assistant,1,0.058823529411764705,1.0,100.0,3
+Candidate_032,Delivery Driver,1,0.058823529411764705,1.0,100.0,4
+Candidate_032,"Driver, Truck",1,0.058823529411764705,1.0,100.0,5
+Candidate_032,Food Service Supervisor,1,0.058823529411764705,1.0,100.0,6
+Candidate_032,Information Technology (IT) Analyst,1,0.058823529411764705,1.0,100.0,7
+Candidate_032,Inside Sales Representative,1,0.058823529411764705,1.0,100.0,8
+Candidate_032,Licensed Practical Nurse (L.P.N.),1,0.058823529411764705,1.0,100.0,9
+Candidate_032,Office Administrator,1,0.058823529411764705,1.0,100.0,10
+Candidate_032,Office Manager,1,0.058823529411764705,1.0,100.0,11
+Candidate_032,Restaurant Manager,1,0.058823529411764705,1.0,100.0,12
+Candidate_032,Retail Sales Associate,1,0.058823529411764705,1.0,100.0,13
+Candidate_032,Secondary School Teacher,1,0.058823529411764705,1.0,100.0,14
+Candidate_032,Software Developer,1,0.058823529411764705,1.0,100.0,15
+Candidate_033,Administrative Assistant,1,0.037037037037037035,1.0,100.0,1
+Candidate_033,Bookkeeper,1,0.037037037037037035,1.0,100.0,2
+Candidate_033,Continuing Care Assistant,1,0.037037037037037035,1.0,100.0,3
+Candidate_033,Delivery Driver,1,0.037037037037037035,1.0,100.0,4
+Candidate_033,"Driver, Truck",1,0.037037037037037035,1.0,100.0,5
+Candidate_033,Food Service Supervisor,1,0.037037037037037035,1.0,100.0,6
+Candidate_033,Information Technology (IT) Analyst,1,0.037037037037037035,1.0,100.0,7
+Candidate_033,Inside Sales Representative,1,0.037037037037037035,1.0,100.0,8
+Candidate_033,Licensed Practical Nurse (L.P.N.),1,0.037037037037037035,1.0,100.0,9
+Candidate_033,Office Administrator,1,0.037037037037037035,1.0,100.0,10
+Candidate_033,Office Manager,1,0.037037037037037035,1.0,100.0,11
+Candidate_033,Restaurant Manager,1,0.037037037037037035,1.0,100.0,12
+Candidate_033,Retail Sales Associate,1,0.037037037037037035,1.0,100.0,13
+Candidate_033,Secondary School Teacher,1,0.037037037037037035,1.0,100.0,14
+Candidate_033,Software Developer,1,0.037037037037037035,1.0,100.0,15
+Candidate_034,Administrative Assistant,1,0.027777777777777776,1.0,100.0,1
+Candidate_034,Bookkeeper,1,0.027777777777777776,1.0,100.0,2
+Candidate_034,Continuing Care Assistant,1,0.027777777777777776,1.0,100.0,3
+Candidate_034,Delivery Driver,1,0.027777777777777776,1.0,100.0,4
+Candidate_034,"Driver, Truck",1,0.027777777777777776,1.0,100.0,5
+Candidate_034,Food Service Supervisor,1,0.027777777777777776,1.0,100.0,6
+Candidate_034,Information Technology (IT) Analyst,1,0.027777777777777776,1.0,100.0,7
+Candidate_034,Inside Sales Representative,1,0.027777777777777776,1.0,100.0,8
+Candidate_034,Licensed Practical Nurse (L.P.N.),1,0.027777777777777776,1.0,100.0,9
+Candidate_034,Office Administrator,1,0.027777777777777776,1.0,100.0,10
+Candidate_034,Office Manager,1,0.027777777777777776,1.0,100.0,11
+Candidate_034,Restaurant Manager,1,0.027777777777777776,1.0,100.0,12
+Candidate_034,Retail Sales Associate,1,0.027777777777777776,1.0,100.0,13
+Candidate_034,Secondary School Teacher,1,0.027777777777777776,1.0,100.0,14
+Candidate_034,Software Developer,1,0.027777777777777776,1.0,100.0,15
+Candidate_035,Administrative Assistant,1,0.05555555555555555,1.0,100.0,1
+Candidate_035,Bookkeeper,1,0.05555555555555555,1.0,100.0,2
+Candidate_035,Continuing Care Assistant,1,0.05555555555555555,1.0,100.0,3
+Candidate_035,Delivery Driver,1,0.05555555555555555,1.0,100.0,4
+Candidate_035,"Driver, Truck",1,0.05555555555555555,1.0,100.0,5
+Candidate_035,Food Service Supervisor,1,0.05555555555555555,1.0,100.0,6
+Candidate_035,Information Technology (IT) Analyst,1,0.05555555555555555,1.0,100.0,7
+Candidate_035,Inside Sales Representative,1,0.05555555555555555,1.0,100.0,8
+Candidate_035,Licensed Practical Nurse (L.P.N.),1,0.05555555555555555,1.0,100.0,9
+Candidate_035,Office Administrator,1,0.05555555555555555,1.0,100.0,10
+Candidate_035,Office Manager,1,0.05555555555555555,1.0,100.0,11
+Candidate_035,Restaurant Manager,1,0.05555555555555555,1.0,100.0,12
+Candidate_035,Retail Sales Associate,1,0.05555555555555555,1.0,100.0,13
+Candidate_035,Secondary School Teacher,1,0.05555555555555555,1.0,100.0,14
+Candidate_035,Software Developer,1,0.05555555555555555,1.0,100.0,15
+Candidate_036,Administrative Assistant,1,0.1,1.0,100.0,1
+Candidate_036,Bookkeeper,1,0.1,1.0,100.0,2
+Candidate_036,Continuing Care Assistant,1,0.1,1.0,100.0,3
+Candidate_036,Delivery Driver,1,0.1,1.0,100.0,4
+Candidate_036,"Driver, Truck",1,0.1,1.0,100.0,5
+Candidate_036,Food Service Supervisor,1,0.1,1.0,100.0,6
+Candidate_036,Information Technology (IT) Analyst,1,0.1,1.0,100.0,7
+Candidate_036,Inside Sales Representative,1,0.1,1.0,100.0,8
+Candidate_036,Licensed Practical Nurse (L.P.N.),1,0.1,1.0,100.0,9
+Candidate_036,Office Administrator,1,0.1,1.0,100.0,10
+Candidate_036,Office Manager,1,0.1,1.0,100.0,11
+Candidate_036,Restaurant Manager,1,0.1,1.0,100.0,12
+Candidate_036,Retail Sales Associate,1,0.1,1.0,100.0,13
+Candidate_036,Secondary School Teacher,1,0.1,1.0,100.0,14
+Candidate_036,Software Developer,1,0.1,1.0,100.0,15
+Candidate_037,Administrative Assistant,1,0.07142857142857142,1.0,100.0,1
+Candidate_037,Bookkeeper,1,0.07142857142857142,1.0,100.0,2
+Candidate_037,Continuing Care Assistant,1,0.07142857142857142,1.0,100.0,3
+Candidate_037,Delivery Driver,1,0.07142857142857142,1.0,100.0,4
+Candidate_037,"Driver, Truck",1,0.07142857142857142,1.0,100.0,5
+Candidate_037,Food Service Supervisor,1,0.07142857142857142,1.0,100.0,6
+Candidate_037,Information Technology (IT) Analyst,1,0.07142857142857142,1.0,100.0,7
+Candidate_037,Inside Sales Representative,1,0.07142857142857142,1.0,100.0,8
+Candidate_037,Licensed Practical Nurse (L.P.N.),1,0.07142857142857142,1.0,100.0,9
+Candidate_037,Office Administrator,1,0.07142857142857142,1.0,100.0,10
+Candidate_037,Office Manager,1,0.07142857142857142,1.0,100.0,11
+Candidate_037,Restaurant Manager,1,0.07142857142857142,1.0,100.0,12
+Candidate_037,Retail Sales Associate,1,0.07142857142857142,1.0,100.0,13
+Candidate_037,Secondary School Teacher,1,0.07142857142857142,1.0,100.0,14
+Candidate_037,Software Developer,1,0.07142857142857142,1.0,100.0,15
+Candidate_038,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_038,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_038,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_038,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_038,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_038,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_038,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_038,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_038,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_038,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_038,Office Manager,0,0.0,1.0,100.0,11
+Candidate_038,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_038,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_038,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_038,Software Developer,0,0.0,1.0,100.0,15
+Candidate_039,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_039,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_039,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_039,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_039,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_039,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_039,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_039,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_039,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_039,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_039,Office Manager,0,0.0,1.0,100.0,11
+Candidate_039,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_039,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_039,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_039,Software Developer,0,0.0,1.0,100.0,15
+Candidate_040,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_040,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_040,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_040,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_040,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_040,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_040,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_040,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_040,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_040,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_040,Office Manager,0,0.0,1.0,100.0,11
+Candidate_040,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_040,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_040,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_040,Software Developer,0,0.0,1.0,100.0,15
+Candidate_041,Administrative Assistant,1,0.0625,1.0,100.0,1
+Candidate_041,Bookkeeper,1,0.0625,1.0,100.0,2
+Candidate_041,Continuing Care Assistant,1,0.0625,1.0,100.0,3
+Candidate_041,Delivery Driver,1,0.0625,1.0,100.0,4
+Candidate_041,"Driver, Truck",1,0.0625,1.0,100.0,5
+Candidate_041,Food Service Supervisor,1,0.0625,1.0,100.0,6
+Candidate_041,Information Technology (IT) Analyst,1,0.0625,1.0,100.0,7
+Candidate_041,Inside Sales Representative,1,0.0625,1.0,100.0,8
+Candidate_041,Licensed Practical Nurse (L.P.N.),1,0.0625,1.0,100.0,9
+Candidate_041,Office Administrator,1,0.0625,1.0,100.0,10
+Candidate_041,Office Manager,1,0.0625,1.0,100.0,11
+Candidate_041,Restaurant Manager,1,0.0625,1.0,100.0,12
+Candidate_041,Retail Sales Associate,1,0.0625,1.0,100.0,13
+Candidate_041,Secondary School Teacher,1,0.0625,1.0,100.0,14
+Candidate_041,Software Developer,1,0.0625,1.0,100.0,15
+Candidate_042,Administrative Assistant,1,0.14285714285714285,1.0,100.0,1
+Candidate_042,Bookkeeper,1,0.14285714285714285,1.0,100.0,2
+Candidate_042,Continuing Care Assistant,1,0.14285714285714285,1.0,100.0,3
+Candidate_042,Delivery Driver,1,0.14285714285714285,1.0,100.0,4
+Candidate_042,"Driver, Truck",1,0.14285714285714285,1.0,100.0,5
+Candidate_042,Food Service Supervisor,1,0.14285714285714285,1.0,100.0,6
+Candidate_042,Information Technology (IT) Analyst,1,0.14285714285714285,1.0,100.0,7
+Candidate_042,Inside Sales Representative,1,0.14285714285714285,1.0,100.0,8
+Candidate_042,Licensed Practical Nurse (L.P.N.),1,0.14285714285714285,1.0,100.0,9
+Candidate_042,Office Administrator,1,0.14285714285714285,1.0,100.0,10
+Candidate_042,Office Manager,1,0.14285714285714285,1.0,100.0,11
+Candidate_042,Restaurant Manager,1,0.14285714285714285,1.0,100.0,12
+Candidate_042,Retail Sales Associate,1,0.14285714285714285,1.0,100.0,13
+Candidate_042,Secondary School Teacher,1,0.14285714285714285,1.0,100.0,14
+Candidate_042,Software Developer,1,0.14285714285714285,1.0,100.0,15
+Candidate_043,Administrative Assistant,1,0.045454545454545456,1.0,100.0,1
+Candidate_043,Bookkeeper,1,0.045454545454545456,1.0,100.0,2
+Candidate_043,Continuing Care Assistant,1,0.045454545454545456,1.0,100.0,3
+Candidate_043,Delivery Driver,1,0.045454545454545456,1.0,100.0,4
+Candidate_043,"Driver, Truck",1,0.045454545454545456,1.0,100.0,5
+Candidate_043,Food Service Supervisor,1,0.045454545454545456,1.0,100.0,6
+Candidate_043,Information Technology (IT) Analyst,1,0.045454545454545456,1.0,100.0,7
+Candidate_043,Inside Sales Representative,1,0.045454545454545456,1.0,100.0,8
+Candidate_043,Licensed Practical Nurse (L.P.N.),1,0.045454545454545456,1.0,100.0,9
+Candidate_043,Office Administrator,1,0.045454545454545456,1.0,100.0,10
+Candidate_043,Office Manager,1,0.045454545454545456,1.0,100.0,11
+Candidate_043,Restaurant Manager,1,0.045454545454545456,1.0,100.0,12
+Candidate_043,Retail Sales Associate,1,0.045454545454545456,1.0,100.0,13
+Candidate_043,Secondary School Teacher,1,0.045454545454545456,1.0,100.0,14
+Candidate_043,Software Developer,1,0.045454545454545456,1.0,100.0,15
+Candidate_044,Administrative Assistant,1,0.043478260869565216,1.0,100.0,1
+Candidate_044,Bookkeeper,1,0.043478260869565216,1.0,100.0,2
+Candidate_044,Continuing Care Assistant,1,0.043478260869565216,1.0,100.0,3
+Candidate_044,Delivery Driver,1,0.043478260869565216,1.0,100.0,4
+Candidate_044,"Driver, Truck",1,0.043478260869565216,1.0,100.0,5
+Candidate_044,Food Service Supervisor,1,0.043478260869565216,1.0,100.0,6
+Candidate_044,Information Technology (IT) Analyst,1,0.043478260869565216,1.0,100.0,7
+Candidate_044,Inside Sales Representative,1,0.043478260869565216,1.0,100.0,8
+Candidate_044,Licensed Practical Nurse (L.P.N.),1,0.043478260869565216,1.0,100.0,9
+Candidate_044,Office Administrator,1,0.043478260869565216,1.0,100.0,10
+Candidate_044,Office Manager,1,0.043478260869565216,1.0,100.0,11
+Candidate_044,Restaurant Manager,1,0.043478260869565216,1.0,100.0,12
+Candidate_044,Retail Sales Associate,1,0.043478260869565216,1.0,100.0,13
+Candidate_044,Secondary School Teacher,1,0.043478260869565216,1.0,100.0,14
+Candidate_044,Software Developer,1,0.043478260869565216,1.0,100.0,15
+Candidate_045,Administrative Assistant,2,0.14285714285714285,1.0,100.0,1
+Candidate_045,Bookkeeper,2,0.14285714285714285,1.0,100.0,2
+Candidate_045,Continuing Care Assistant,2,0.14285714285714285,1.0,100.0,3
+Candidate_045,Delivery Driver,2,0.14285714285714285,1.0,100.0,4
+Candidate_045,"Driver, Truck",2,0.14285714285714285,1.0,100.0,5
+Candidate_045,Food Service Supervisor,2,0.14285714285714285,1.0,100.0,6
+Candidate_045,Information Technology (IT) Analyst,2,0.14285714285714285,1.0,100.0,7
+Candidate_045,Inside Sales Representative,2,0.14285714285714285,1.0,100.0,8
+Candidate_045,Licensed Practical Nurse (L.P.N.),2,0.14285714285714285,1.0,100.0,9
+Candidate_045,Office Administrator,2,0.14285714285714285,1.0,100.0,10
+Candidate_045,Office Manager,2,0.14285714285714285,1.0,100.0,11
+Candidate_045,Restaurant Manager,2,0.14285714285714285,1.0,100.0,12
+Candidate_045,Retail Sales Associate,2,0.14285714285714285,1.0,100.0,13
+Candidate_045,Secondary School Teacher,2,0.14285714285714285,1.0,100.0,14
+Candidate_045,Software Developer,2,0.14285714285714285,1.0,100.0,15
+Candidate_046,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_046,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_046,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_046,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_046,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_046,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_046,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_046,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_046,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_046,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_046,Office Manager,0,0.0,1.0,100.0,11
+Candidate_046,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_046,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_046,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_046,Software Developer,0,0.0,1.0,100.0,15
+Candidate_047,Administrative Assistant,1,0.05,1.0,100.0,1
+Candidate_047,Bookkeeper,1,0.05,1.0,100.0,2
+Candidate_047,Continuing Care Assistant,1,0.05,1.0,100.0,3
+Candidate_047,Delivery Driver,1,0.05,1.0,100.0,4
+Candidate_047,"Driver, Truck",1,0.05,1.0,100.0,5
+Candidate_047,Food Service Supervisor,1,0.05,1.0,100.0,6
+Candidate_047,Information Technology (IT) Analyst,1,0.05,1.0,100.0,7
+Candidate_047,Inside Sales Representative,1,0.05,1.0,100.0,8
+Candidate_047,Licensed Practical Nurse (L.P.N.),1,0.05,1.0,100.0,9
+Candidate_047,Office Administrator,1,0.05,1.0,100.0,10
+Candidate_047,Office Manager,1,0.05,1.0,100.0,11
+Candidate_047,Restaurant Manager,1,0.05,1.0,100.0,12
+Candidate_047,Retail Sales Associate,1,0.05,1.0,100.0,13
+Candidate_047,Secondary School Teacher,1,0.05,1.0,100.0,14
+Candidate_047,Software Developer,1,0.05,1.0,100.0,15
+Candidate_048,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_048,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_048,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_048,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_048,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_048,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_048,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_048,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_048,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_048,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_048,Office Manager,0,0.0,1.0,100.0,11
+Candidate_048,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_048,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_048,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_048,Software Developer,0,0.0,1.0,100.0,15
+Candidate_049,Administrative Assistant,1,0.125,1.0,100.0,1
+Candidate_049,Bookkeeper,1,0.125,1.0,100.0,2
+Candidate_049,Continuing Care Assistant,1,0.125,1.0,100.0,3
+Candidate_049,Delivery Driver,1,0.125,1.0,100.0,4
+Candidate_049,"Driver, Truck",1,0.125,1.0,100.0,5
+Candidate_049,Food Service Supervisor,1,0.125,1.0,100.0,6
+Candidate_049,Information Technology (IT) Analyst,1,0.125,1.0,100.0,7
+Candidate_049,Inside Sales Representative,1,0.125,1.0,100.0,8
+Candidate_049,Licensed Practical Nurse (L.P.N.),1,0.125,1.0,100.0,9
+Candidate_049,Office Administrator,1,0.125,1.0,100.0,10
+Candidate_049,Office Manager,1,0.125,1.0,100.0,11
+Candidate_049,Restaurant Manager,1,0.125,1.0,100.0,12
+Candidate_049,Retail Sales Associate,1,0.125,1.0,100.0,13
+Candidate_049,Secondary School Teacher,1,0.125,1.0,100.0,14
+Candidate_049,Software Developer,1,0.125,1.0,100.0,15
+Candidate_050,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_050,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_050,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_050,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_050,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_050,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_050,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_050,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_050,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_050,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_050,Office Manager,0,0.0,1.0,100.0,11
+Candidate_050,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_050,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_050,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_050,Software Developer,0,0.0,1.0,100.0,15
+Candidate_051,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_051,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_051,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_051,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_051,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_051,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_051,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_051,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_051,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_051,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_051,Office Manager,0,0.0,1.0,100.0,11
+Candidate_051,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_051,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_051,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_051,Software Developer,0,0.0,1.0,100.0,15
+Candidate_052,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_052,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_052,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_052,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_052,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_052,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_052,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_052,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_052,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_052,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_052,Office Manager,0,0.0,1.0,100.0,11
+Candidate_052,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_052,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_052,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_052,Software Developer,0,0.0,1.0,100.0,15
+Candidate_053,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_053,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_053,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_053,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_053,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_053,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_053,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_053,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_053,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_053,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_053,Office Manager,0,0.0,1.0,100.0,11
+Candidate_053,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_053,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_053,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_053,Software Developer,0,0.0,1.0,100.0,15
+Candidate_054,Administrative Assistant,1,0.024390243902439025,1.0,100.0,1
+Candidate_054,Bookkeeper,1,0.024390243902439025,1.0,100.0,2
+Candidate_054,Continuing Care Assistant,1,0.024390243902439025,1.0,100.0,3
+Candidate_054,Delivery Driver,1,0.024390243902439025,1.0,100.0,4
+Candidate_054,"Driver, Truck",1,0.024390243902439025,1.0,100.0,5
+Candidate_054,Food Service Supervisor,1,0.024390243902439025,1.0,100.0,6
+Candidate_054,Information Technology (IT) Analyst,1,0.024390243902439025,1.0,100.0,7
+Candidate_054,Inside Sales Representative,1,0.024390243902439025,1.0,100.0,8
+Candidate_054,Licensed Practical Nurse (L.P.N.),1,0.024390243902439025,1.0,100.0,9
+Candidate_054,Office Administrator,1,0.024390243902439025,1.0,100.0,10
+Candidate_054,Office Manager,1,0.024390243902439025,1.0,100.0,11
+Candidate_054,Restaurant Manager,1,0.024390243902439025,1.0,100.0,12
+Candidate_054,Retail Sales Associate,1,0.024390243902439025,1.0,100.0,13
+Candidate_054,Secondary School Teacher,1,0.024390243902439025,1.0,100.0,14
+Candidate_054,Software Developer,1,0.024390243902439025,1.0,100.0,15
+Candidate_055,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_055,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_055,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_055,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_055,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_055,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_055,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_055,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_055,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_055,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_055,Office Manager,0,0.0,1.0,100.0,11
+Candidate_055,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_055,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_055,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_055,Software Developer,0,0.0,1.0,100.0,15
+Candidate_056,Administrative Assistant,1,0.05555555555555555,1.0,100.0,1
+Candidate_056,Bookkeeper,1,0.05555555555555555,1.0,100.0,2
+Candidate_056,Continuing Care Assistant,1,0.05555555555555555,1.0,100.0,3
+Candidate_056,Delivery Driver,1,0.05555555555555555,1.0,100.0,4
+Candidate_056,"Driver, Truck",1,0.05555555555555555,1.0,100.0,5
+Candidate_056,Food Service Supervisor,1,0.05555555555555555,1.0,100.0,6
+Candidate_056,Information Technology (IT) Analyst,1,0.05555555555555555,1.0,100.0,7
+Candidate_056,Inside Sales Representative,1,0.05555555555555555,1.0,100.0,8
+Candidate_056,Licensed Practical Nurse (L.P.N.),1,0.05555555555555555,1.0,100.0,9
+Candidate_056,Office Administrator,1,0.05555555555555555,1.0,100.0,10
+Candidate_056,Office Manager,1,0.05555555555555555,1.0,100.0,11
+Candidate_056,Restaurant Manager,1,0.05555555555555555,1.0,100.0,12
+Candidate_056,Retail Sales Associate,1,0.05555555555555555,1.0,100.0,13
+Candidate_056,Secondary School Teacher,1,0.05555555555555555,1.0,100.0,14
+Candidate_056,Software Developer,1,0.05555555555555555,1.0,100.0,15
+Candidate_057,Administrative Assistant,1,0.14285714285714285,1.0,100.0,1
+Candidate_057,Bookkeeper,1,0.14285714285714285,1.0,100.0,2
+Candidate_057,Continuing Care Assistant,1,0.14285714285714285,1.0,100.0,3
+Candidate_057,Delivery Driver,1,0.14285714285714285,1.0,100.0,4
+Candidate_057,"Driver, Truck",1,0.14285714285714285,1.0,100.0,5
+Candidate_057,Food Service Supervisor,1,0.14285714285714285,1.0,100.0,6
+Candidate_057,Information Technology (IT) Analyst,1,0.14285714285714285,1.0,100.0,7
+Candidate_057,Inside Sales Representative,1,0.14285714285714285,1.0,100.0,8
+Candidate_057,Licensed Practical Nurse (L.P.N.),1,0.14285714285714285,1.0,100.0,9
+Candidate_057,Office Administrator,1,0.14285714285714285,1.0,100.0,10
+Candidate_057,Office Manager,1,0.14285714285714285,1.0,100.0,11
+Candidate_057,Restaurant Manager,1,0.14285714285714285,1.0,100.0,12
+Candidate_057,Retail Sales Associate,1,0.14285714285714285,1.0,100.0,13
+Candidate_057,Secondary School Teacher,1,0.14285714285714285,1.0,100.0,14
+Candidate_057,Software Developer,1,0.14285714285714285,1.0,100.0,15
+Candidate_058,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_058,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_058,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_058,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_058,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_058,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_058,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_058,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_058,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_058,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_058,Office Manager,0,0.0,1.0,100.0,11
+Candidate_058,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_058,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_058,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_058,Software Developer,0,0.0,1.0,100.0,15
+Candidate_059,Administrative Assistant,1,0.07142857142857142,1.0,100.0,1
+Candidate_059,Bookkeeper,1,0.07142857142857142,1.0,100.0,2
+Candidate_059,Continuing Care Assistant,1,0.07142857142857142,1.0,100.0,3
+Candidate_059,Delivery Driver,1,0.07142857142857142,1.0,100.0,4
+Candidate_059,"Driver, Truck",1,0.07142857142857142,1.0,100.0,5
+Candidate_059,Food Service Supervisor,1,0.07142857142857142,1.0,100.0,6
+Candidate_059,Information Technology (IT) Analyst,1,0.07142857142857142,1.0,100.0,7
+Candidate_059,Inside Sales Representative,1,0.07142857142857142,1.0,100.0,8
+Candidate_059,Licensed Practical Nurse (L.P.N.),1,0.07142857142857142,1.0,100.0,9
+Candidate_059,Office Administrator,1,0.07142857142857142,1.0,100.0,10
+Candidate_059,Office Manager,1,0.07142857142857142,1.0,100.0,11
+Candidate_059,Restaurant Manager,1,0.07142857142857142,1.0,100.0,12
+Candidate_059,Retail Sales Associate,1,0.07142857142857142,1.0,100.0,13
+Candidate_059,Secondary School Teacher,1,0.07142857142857142,1.0,100.0,14
+Candidate_059,Software Developer,1,0.07142857142857142,1.0,100.0,15
+Candidate_060,Administrative Assistant,1,0.3333333333333333,1.0,100.0,1
+Candidate_060,Bookkeeper,1,0.3333333333333333,1.0,100.0,2
+Candidate_060,Continuing Care Assistant,1,0.3333333333333333,1.0,100.0,3
+Candidate_060,Delivery Driver,1,0.3333333333333333,1.0,100.0,4
+Candidate_060,"Driver, Truck",1,0.3333333333333333,1.0,100.0,5
+Candidate_060,Food Service Supervisor,1,0.3333333333333333,1.0,100.0,6
+Candidate_060,Information Technology (IT) Analyst,1,0.3333333333333333,1.0,100.0,7
+Candidate_060,Inside Sales Representative,1,0.3333333333333333,1.0,100.0,8
+Candidate_060,Licensed Practical Nurse (L.P.N.),1,0.3333333333333333,1.0,100.0,9
+Candidate_060,Office Administrator,1,0.3333333333333333,1.0,100.0,10
+Candidate_060,Office Manager,1,0.3333333333333333,1.0,100.0,11
+Candidate_060,Restaurant Manager,1,0.3333333333333333,1.0,100.0,12
+Candidate_060,Retail Sales Associate,1,0.3333333333333333,1.0,100.0,13
+Candidate_060,Secondary School Teacher,1,0.3333333333333333,1.0,100.0,14
+Candidate_060,Software Developer,1,0.3333333333333333,1.0,100.0,15
+Candidate_061,Administrative Assistant,2,0.07407407407407407,1.0,100.0,1
+Candidate_061,Bookkeeper,2,0.07407407407407407,1.0,100.0,2
+Candidate_061,Continuing Care Assistant,2,0.07407407407407407,1.0,100.0,3
+Candidate_061,Delivery Driver,2,0.07407407407407407,1.0,100.0,4
+Candidate_061,"Driver, Truck",2,0.07407407407407407,1.0,100.0,5
+Candidate_061,Food Service Supervisor,2,0.07407407407407407,1.0,100.0,6
+Candidate_061,Information Technology (IT) Analyst,2,0.07407407407407407,1.0,100.0,7
+Candidate_061,Inside Sales Representative,2,0.07407407407407407,1.0,100.0,8
+Candidate_061,Licensed Practical Nurse (L.P.N.),2,0.07407407407407407,1.0,100.0,9
+Candidate_061,Office Administrator,2,0.07407407407407407,1.0,100.0,10
+Candidate_061,Office Manager,2,0.07407407407407407,1.0,100.0,11
+Candidate_061,Restaurant Manager,2,0.07407407407407407,1.0,100.0,12
+Candidate_061,Retail Sales Associate,2,0.07407407407407407,1.0,100.0,13
+Candidate_061,Secondary School Teacher,2,0.07407407407407407,1.0,100.0,14
+Candidate_061,Software Developer,2,0.07407407407407407,1.0,100.0,15
+Candidate_062,Administrative Assistant,0,0.0,1.0,100.0,1
+Candidate_062,Bookkeeper,0,0.0,1.0,100.0,2
+Candidate_062,Continuing Care Assistant,0,0.0,1.0,100.0,3
+Candidate_062,Delivery Driver,0,0.0,1.0,100.0,4
+Candidate_062,"Driver, Truck",0,0.0,1.0,100.0,5
+Candidate_062,Food Service Supervisor,0,0.0,1.0,100.0,6
+Candidate_062,Information Technology (IT) Analyst,0,0.0,1.0,100.0,7
+Candidate_062,Inside Sales Representative,0,0.0,1.0,100.0,8
+Candidate_062,Licensed Practical Nurse (L.P.N.),0,0.0,1.0,100.0,9
+Candidate_062,Office Administrator,0,0.0,1.0,100.0,10
+Candidate_062,Office Manager,0,0.0,1.0,100.0,11
+Candidate_062,Restaurant Manager,0,0.0,1.0,100.0,12
+Candidate_062,Retail Sales Associate,0,0.0,1.0,100.0,13
+Candidate_062,Secondary School Teacher,0,0.0,1.0,100.0,14
+Candidate_062,Software Developer,0,0.0,1.0,100.0,15
+Candidate_063,Administrative Assistant,2,0.09090909090909091,1.0,100.0,1
+Candidate_063,Bookkeeper,2,0.09090909090909091,1.0,100.0,2
+Candidate_063,Continuing Care Assistant,2,0.09090909090909091,1.0,100.0,3
+Candidate_063,Delivery Driver,2,0.09090909090909091,1.0,100.0,4
+Candidate_063,"Driver, Truck",2,0.09090909090909091,1.0,100.0,5
+Candidate_063,Food Service Supervisor,2,0.09090909090909091,1.0,100.0,6
+Candidate_063,Information Technology (IT) Analyst,2,0.09090909090909091,1.0,100.0,7
+Candidate_063,Inside Sales Representative,2,0.09090909090909091,1.0,100.0,8
+Candidate_063,Licensed Practical Nurse (L.P.N.),2,0.09090909090909091,1.0,100.0,9
+Candidate_063,Office Administrator,2,0.09090909090909091,1.0,100.0,10
+Candidate_063,Office Manager,2,0.09090909090909091,1.0,100.0,11
+Candidate_063,Restaurant Manager,2,0.09090909090909091,1.0,100.0,12
+Candidate_063,Retail Sales Associate,2,0.09090909090909091,1.0,100.0,13
+Candidate_063,Secondary School Teacher,2,0.09090909090909091,1.0,100.0,14
+Candidate_063,Software Developer,2,0.09090909090909091,1.0,100.0,15

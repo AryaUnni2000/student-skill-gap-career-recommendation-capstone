@@ -1,0 +1,19 @@
+configuration,selected_occupation,top1_candidate_count
+O*NET Only,Software Developer,39
+O*NET Only,Administrative Assistant,20
+O*NET Only,Food Service Supervisor,3
+O*NET Only,Office Manager,1
+O*NET + Job Bank,Software Developer,35
+O*NET + Job Bank,Administrative Assistant,11
+O*NET + Job Bank,Food Service Supervisor,11
+O*NET + Job Bank,Office Manager,4
+O*NET + Job Bank,Inside Sales Representative,1
+O*NET + Job Bank,Retail Sales Associate,1
+O*NET + CIP,Software Developer,38
+O*NET + CIP,Administrative Assistant,21
+O*NET + CIP,Food Service Supervisor,3
+O*NET + CIP,Office Manager,1
+All Datasets,Software Developer,35
+All Datasets,Administrative Assistant,13
+All Datasets,Food Service Supervisor,11
+All Datasets,Office Manager,4

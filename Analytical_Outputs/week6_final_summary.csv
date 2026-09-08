@@ -1,0 +1,13 @@
+metric,value
+Number of candidates,63
+Number of occupations,15
+Candidate-occupation combinations,945
+Final Top 5 recommendations,315
+Candidates with exactly 5 recommendations,63
+Average final hybrid score,75.42
+Median final hybrid score,76.1
+Minimum final hybrid score,23.26
+Maximum final hybrid score,100.0
+Missing values in final recommendations,0
+Duplicate candidate-occupation combinations,0
+Final validation status,PASSED

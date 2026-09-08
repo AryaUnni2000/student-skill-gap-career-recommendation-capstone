@@ -1,0 +1,7 @@
+model,candidates,mean_top1_score,median_top1_score
+Demand-Adjusted,63,0.7690265217794622,0.773407831536155
+Education-Adjusted,63,0.8878057822169073,0.918539491874547
+Final Hybrid,63,0.7818225914177477,0.7824589991056498
+Keyword Baseline,63,1.0,1.0
+Sentence Transformer,63,1.0,1.0
+TF-IDF,63,1.0,1.0

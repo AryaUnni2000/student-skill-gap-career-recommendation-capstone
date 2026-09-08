@@ -1,0 +1,8 @@
+validation,expected,actual,status
+Candidate-occupation pairs,945,945,PASS
+Candidates,63,63,PASS
+Occupations,15,15,PASS
+Skill-gap rows,9450,9450,PASS
+RAG knowledge documents,707,707,PASS
+Candidate RAG explanations,63,63,PASS
+Ablation candidate-occupation rows,945,945,PASS
